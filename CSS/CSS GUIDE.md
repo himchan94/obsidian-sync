@@ -23,3 +23,4 @@ color: rgb(29, 29, 31);
 position : sticky와 fixed 차이
 
 sticky : 스티커처럼 붙는다.
+absolute: 일 때는 width를 강제로 100%해야 넓어진다.
