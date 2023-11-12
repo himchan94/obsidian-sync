@@ -19,3 +19,7 @@ color: rgb(29, 29, 31);
 
 }
 ```
+
+position : sticky와 fixed 차이
+
+sticky : 스티커처럼 붙는다.
