@@ -28,8 +28,12 @@ console.log(octal === hex); // true
 
 
 ```
-
 console.log(1 === 1.0) // true;
-
-
+console.lg(3 / 2); // 1.5
 ```
+
+
+숫자 타입은 추가적으로 세 가지 특별한 값도 표현할 수 있다.
+- Infinity : 양의 무한대
+- -Infinity: 음의 무한대
+- NaN: 산술 연산 불가
