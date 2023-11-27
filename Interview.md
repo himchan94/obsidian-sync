@@ -40,3 +40,7 @@
 DOM Manuplation에 관련된 것들
 https://xiubindev.tistory.com/m/119
 https://realmojo.tistory.com/300
+
+
+이벤트
+버블링과 캡처링
