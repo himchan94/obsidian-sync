@@ -44,3 +44,6 @@ https://realmojo.tistory.com/300
 
 이벤트
 버블링과 캡처링
+
+
+https://socaeri.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-FE-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EB%B3%B5%EA%B8%B0-%EB%AA%A8%EC%9D%8C
