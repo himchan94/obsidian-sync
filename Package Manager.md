@@ -32,4 +32,24 @@ package.json
 yarn.lock
 
 **npm의 한계**
-비효율적 의존성 검색
+- 비효율적 의존성 검색
+
+![[Pasted image 20240131234807.png]]
+
+- package.json엔 명시가 안되는 문제
+- 너무 무거운 node_modules
+
+
+
+**Pnpm**
+
+- 평탄화 되지 않은 node_modules
+![[Pasted image 20240131235007.png]]
+
+
+링크를 사용한 효과적인 패키지 연결
+![[Pasted image 20240131235148.png]]
+
+yarn set version berry
+
+node_modules 와 node에 내장된 의존성 관리 없이 의존성을 관리하면 어떨까?
