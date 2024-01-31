@@ -15,7 +15,7 @@ package-lock.json
 
 
 **yarn: yet another resource negotiator**
-- 병렬화를 통하 속도 개선
+- 병렬화를 통한 속도 개선
 - 자동화 된 Lock 생성
 - 의존성 트리 알고리즘 변경
 - 캐시 사용
@@ -50,6 +50,17 @@ yarn.lock
 링크를 사용한 효과적인 패키지 연결
 ![[Pasted image 20240131235148.png]]
 
+
+**yarn v2**
 yarn set version berry
 
 node_modules 와 node에 내장된 의존성 관리 없이 의존성을 관리하면 어떨까?
+![[Pasted image 20240131235252.png]]
+
+
+
+![[Pasted image 20240131235316.png]]
+
+yarn v2 - plug'n'play
+
+![[Pasted image 20240131235439.png]]
