@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기본기/linux 명령어.md",
+                "file": "독서/1. 불온한 것들의 미학.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기본기/linux 명령어.md",
+                "file": "독서/1. 불온한 것들의 미학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기본기/linux 명령어.md",
+                "file": "독서/1. 불온한 것들의 미학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기본기/linux 명령어.md"
+                "file": "독서/1. 불온한 것들의 미학.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b261bfa56db8238b",
   "lastOpenFiles": [
-    "기본기/1. linux 명령어.md",
     "기본기/기본기 (Index).md",
+    "기본기/linux 명령어.md",
+    "수학/0. 수학 (Index).md",
+    "기본기/1. linux 명령어.md",
     "Without Framework/framework.md",
     "표현식과 문.md",
     "콜백함수.md",
@@ -177,8 +179,6 @@
     "데이터 속성.md",
     "객체 (object).md",
     "var, let, const.md",
-    "server component.md",
-    "basic/linux 명령어.md",
     "basic",
     "Untitled.canvas",
     "Untitled 3.canvas",
