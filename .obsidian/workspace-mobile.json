@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9cbb2e0df981742",
+        "id": "4238c12d037cd4db",
         "type": "tabs",
         "children": [
           {
-            "id": "984847df85132501",
+            "id": "41ff714a1ab58b12",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,6 +123,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "984847df85132501",
+  "active": "41ff714a1ab58b12",
   "lastOpenFiles": []
 }
