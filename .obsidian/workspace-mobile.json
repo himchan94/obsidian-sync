@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "79303901c2ad9232",
+    "id": "29c2580e35878aa3",
     "type": "split",
     "children": [
       {
-        "id": "4238c12d037cd4db",
+        "id": "2df55795842f701b",
         "type": "tabs",
         "children": [
           {
-            "id": "41ff714a1ab58b12",
+            "id": "1e55a7513fb544bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c28ecf15cb0371a2",
+    "id": "6bc92a33344736cf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "de23e5e897e67753",
+        "id": "dda8fa68b46c4c31",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "59479a3969e7a3c8",
+        "id": "d18a0a052a79cc8f",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "13a8619de4ce2208",
+        "id": "d32623ac6432f750",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "b5c6f0de975cb599",
+        "id": "dca2702fe80b810e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3fe03120cbf0f452",
+    "id": "96ce9e7c1291c317",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4fb92c2c0f1e3504",
+        "id": "f3445a9cb5089792",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "12a2d32bef863ae5",
+        "id": "725c5acad24ce8a2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "461023b4e8950253",
+        "id": "ea4e0f60fb71d634",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,6 +123,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "41ff714a1ab58b12",
+  "active": "1e55a7513fb544bd",
   "lastOpenFiles": []
 }
