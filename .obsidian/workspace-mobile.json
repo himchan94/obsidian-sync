@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39e9595467c56a38",
+        "id": "85a87bf2b68c876a",
         "type": "tabs",
         "children": [
           {
-            "id": "08621c5216bd489b",
+            "id": "3ab1c32b75e67622",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,9 +123,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "08621c5216bd489b",
+  "active": "3ab1c32b75e67622",
   "lastOpenFiles": [
     "기본기/linux 명령어.md",
+    "기본기/기본기 (Index).md",
     "수학/0. 수학 (Index).md",
     "독서/1. 불온한 것들의 미학.md",
     "기본기/1. linux 명령어.md"
