@@ -11,8 +11,12 @@
             "id": "714f138d65c386cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "기본기/linux 명령어.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "기본기/linux 명령어.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "기본기/linux 명령어.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "기본기/linux 명령어.md"
+          }
         }
       }
     ],
@@ -125,6 +133,7 @@
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "기본기/1. linux 명령어.md",
     "test.md",
     "수학/1. Discrete math.md",
     "수학/0.기본기.md",
@@ -145,7 +154,6 @@
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "자료구조와 알고리즘(C++)",
-    "기본기/1. linux 명령어.md",
     "기본기/linux 명령어.md",
     "기본기/기본기 (Index).md",
     "기본기"
