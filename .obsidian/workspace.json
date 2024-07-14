@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f683ebc0aadf7330",
+    "type": "split",
+    "children": [
+      {
+        "id": "f164f977a1fd6101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b261bfa56db8238b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Without Framework/framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6596e285c3816b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3aa5d7cc3390d26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aae7cdb785296965",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "488af1ee6ab72a07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a8e340a85e3c7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e81e66da55c7a748",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed863c671bd01cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3c68d685356eae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Without Framework/framework.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32af0c2f8a6fd5b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Without Framework/framework.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "286af7d4607c06aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3a16e2973d29609",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Without Framework/framework.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "b261bfa56db8238b",
+  "lastOpenFiles": [
+    "표현식과 문.md",
+    "콜백함수.md",
+    "정보처리기사.md",
+    "이터러블(Iterable).md",
+    "원시값과 객체의 비교.md",
+    "요점문제1.md",
+    "식별자.md",
+    "스코프(Scope).md",
+    "숫자(number).md",
+    "순수함수와 비순수 함수.md",
+    "불변성.md",
+    "변수(variable).md",
+    "변수 선언.md",
+    "문자열(string).md",
+    "무제 파일.canvas",
+    "무제 파일 4.canvas",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "명령형 프로그래밍.md",
+    "렉시컬 환경.md",
+    "동작과정.md",
+    "데이터 타입.md",
+    "데이터 속성.md",
+    "객체 (object).md",
+    "var, let, const.md",
+    "server component.md",
+    "basic/linux 명령어.md",
+    "basic",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "SQLD.md",
+    "Pasted image 20240219001151.png",
+    "Pasted image 20240219000949.png",
+    "Pasted image 20240213230132.png",
+    "Pasted image 20240213225845.png",
+    "Pasted image 20240213225831.png",
+    "Pasted image 20240131235439.png",
+    "Pasted image 20240131235316.png",
+    "Pasted image 20240131235252.png",
+    "Pasted image 20240131235148.png",
+    "Pasted image 20240131235007.png",
+    "Package Manager.md",
+    "Next.js.md",
+    "Frameworkless",
+    "CSS",
+    "30 days"
+  ]
+}
