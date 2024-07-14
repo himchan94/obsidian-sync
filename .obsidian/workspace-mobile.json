@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2df55795842f701b",
+        "id": "882a091a388c9183",
         "type": "tabs",
         "children": [
           {
-            "id": "1e55a7513fb544bd",
+            "id": "cf80381415e9c0f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수학/0. 수학 (Index).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "수학/0. 수학 (Index).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "수학/0. 수학 (Index).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "수학/0. 수학 (Index).md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +123,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1e55a7513fb544bd",
+  "active": "cf80381415e9c0f7",
   "lastOpenFiles": [
+    "수학/0. 수학 (Index).md",
     "독서/1. 불온한 것들의 미학.md",
     "기본기/1. linux 명령어.md"
   ]
