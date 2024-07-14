@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Without Framework/framework.md",
+                "file": "기본기/linux 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Without Framework/framework.md",
+                "file": "기본기/linux 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Without Framework/framework.md",
+                "file": "기본기/linux 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Without Framework/framework.md"
+                "file": "기본기/linux 명령어.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b261bfa56db8238b",
   "lastOpenFiles": [
+    "기본기/1. linux 명령어.md",
+    "기본기/기본기 (Index).md",
+    "Without Framework/framework.md",
     "표현식과 문.md",
     "콜백함수.md",
     "정보처리기사.md",
@@ -181,7 +184,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "SQLD.md",
     "Pasted image 20240219001151.png",
     "Pasted image 20240219000949.png",
     "Pasted image 20240213230132.png",
@@ -192,8 +194,6 @@
     "Pasted image 20240131235252.png",
     "Pasted image 20240131235148.png",
     "Pasted image 20240131235007.png",
-    "Package Manager.md",
-    "Next.js.md",
     "Frameworkless",
     "CSS",
     "30 days"

@@ -1,1 +1,0 @@
-https://krcadinac.com/work/projects/gen-art-workshops/
