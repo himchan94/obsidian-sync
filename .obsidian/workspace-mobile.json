@@ -128,11 +128,14 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "About Obsidian/Drawing 2024-07-16 12.51.42.excalidraw.md",
+    "About Obsidian/Sync.md",
     "About Obsidian/Setting.md",
     "기본기/linux 명령어.md",
     "독서/1. 불온한 것들의 미학.md",
@@ -148,7 +151,6 @@
     "컴퓨터 과학/1. 네트워크.md",
     "컴퓨터 과학/0.  컴퓨터 과학.md",
     "컴퓨터 과학",
-    "About Obsidian/Sync.md",
     "About Obsidian",
     "독서/0. 독서.md",
     "독서",
