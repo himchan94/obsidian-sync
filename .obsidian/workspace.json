@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/0.index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba5ae0efff495069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/0.index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af1b94ea8f31665c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/1. memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/1. memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/1. memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md"
+                "file": "C++/1. memory.md"
               }
             }
           }
@@ -146,8 +171,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b261bfa56db8238b",
+  "active": "af1b94ea8f31665c",
   "lastOpenFiles": [
+    "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
+    "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
+    "템플릿/1. 기본 템플릿.md",
+    "C++/1. memory.md",
+    "C++/0.index.md",
+    "C++/1. 메모리.md",
+    "독서/1. 불온한 것들의 미학.md",
+    "C++",
     "기본기/기본기 (Index).md",
     "기본기/linux 명령어.md",
     "수학/0. 수학 (Index).md",
@@ -172,13 +205,6 @@
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "명령형 프로그래밍.md",
-    "렉시컬 환경.md",
-    "동작과정.md",
-    "데이터 타입.md",
-    "데이터 속성.md",
-    "객체 (object).md",
-    "var, let, const.md",
     "basic",
     "Untitled.canvas",
     "Untitled 3.canvas",
