@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b261bfa56db8238b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/0.index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba5ae0efff495069",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,11 +161,13 @@
   },
   "active": "af1b94ea8f31665c",
   "lastOpenFiles": [
+    "C++/0.index.md",
+    "C++/1. memory.md",
+    "Pasted image 20240804031422.png",
+    "Pasted image 20240804031344.png",
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "템플릿/1. 기본 템플릿.md",
-    "C++/1. memory.md",
-    "C++/0.index.md",
     "C++/1. 메모리.md",
     "독서/1. 불온한 것들의 미학.md",
     "C++",
@@ -199,7 +189,6 @@
     "불변성.md",
     "변수(variable).md",
     "변수 선언.md",
-    "문자열(string).md",
     "무제 파일.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
@@ -218,8 +207,6 @@
     "Pasted image 20240131235439.png",
     "Pasted image 20240131235316.png",
     "Pasted image 20240131235252.png",
-    "Pasted image 20240131235148.png",
-    "Pasted image 20240131235007.png",
     "Frameworkless",
     "CSS",
     "30 days"
