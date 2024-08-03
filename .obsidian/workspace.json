@@ -23,6 +23,16 @@
             "id": "af1b94ea8f31665c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/메모리.png"
+              }
+            }
+          },
+          {
+            "id": "8d2b16aeadd4b39c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "C++/1. memory.md",
@@ -32,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,12 +169,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "af1b94ea8f31665c",
+  "active": "8d2b16aeadd4b39c",
   "lastOpenFiles": [
-    "C++/0.index.md",
+    "Assets/메모리와변수.png",
     "C++/1. memory.md",
-    "Pasted image 20240804031422.png",
+    "템플릿/2. 독서.md",
+    "Assets/메모리.png",
+    "Assets",
+    "IMAGES.md",
     "Pasted image 20240804031344.png",
+    "C++/0.index.md",
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "템플릿/1. 기본 템플릿.md",
@@ -187,8 +201,6 @@
     "숫자(number).md",
     "순수함수와 비순수 함수.md",
     "불변성.md",
-    "변수(variable).md",
-    "변수 선언.md",
     "무제 파일.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
@@ -206,7 +218,6 @@
     "Pasted image 20240213225831.png",
     "Pasted image 20240131235439.png",
     "Pasted image 20240131235316.png",
-    "Pasted image 20240131235252.png",
     "Frameworkless",
     "CSS",
     "30 days"
