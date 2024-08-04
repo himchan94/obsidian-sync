@@ -175,13 +175,21 @@
                 "file": "C++/3. 타입.md"
               }
             }
+          },
+          {
+            "id": "e85633240b554d4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +204,11 @@
   },
   "active": "d44f9bb0a8792e06",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "C++/3. 타입.md",
-    "C++/0.index.md",
     "C++/2. 변수.md",
+    "C++/3. 타입.md",
     "C++/1. memory.md",
+    "C++/0.index.md",
+    "무제 파일.md",
     "독서/1. 불온한 것들의 미학.md",
     "Assets/메모리와변수.png",
     "템플릿/2. 독서.md",
