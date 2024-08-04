@@ -11,9 +11,11 @@
             "id": "af1b94ea8f31665c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/메모리.png"
+                "file": "C++/0.index.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/메모리.png",
+                "file": "C++/0.index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/메모리.png",
+                "file": "C++/0.index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/메모리.png"
+                "file": "C++/0.index.md"
               }
             }
           },
@@ -201,14 +203,15 @@
   },
   "active": "af1b94ea8f31665c",
   "lastOpenFiles": [
+    "C++/2. 변수.md",
+    "C++/1. memory.md",
+    "C++/3. 타입.md",
+    "Assets/메모리.png",
     "무제 파일.canvas",
     "C++/0.index.md",
     "홈서버",
     "Assets/namespace.png",
     "C++/4. 기본 개념.md",
-    "C++/1. memory.md",
-    "C++/2. 변수.md",
-    "C++/3. 타입.md",
     "About Obsidian/Sync.md",
     "About Obsidian/Setting.md",
     "More/실수는 메모리에 어떻게 저장될까?.md",
@@ -217,7 +220,6 @@
     "독서/1. 불온한 것들의 미학.md",
     "Assets/메모리와변수.png",
     "템플릿/2. 독서.md",
-    "Assets/메모리.png",
     "Assets",
     "IMAGES.md",
     "Pasted image 20240804031344.png",
