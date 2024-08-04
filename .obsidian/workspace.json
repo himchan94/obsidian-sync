@@ -47,26 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/0.index.md",
+                "file": "C++/1. memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d44f9bb0a8792e06",
+            "id": "ed6adb6c381262e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "More/실수는 메모리에 어떻게 저장될까?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "C++/1. memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "C++/1. memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/3. 타입.md"
+                "file": "C++/1. memory.md"
               }
             }
           },
@@ -202,12 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d44f9bb0a8792e06",
+  "active": "5c88434f4dc8784c",
   "lastOpenFiles": [
     "C++/2. 변수.md",
     "C++/3. 타입.md",
-    "C++/1. memory.md",
+    "About Obsidian/Sync.md",
+    "About Obsidian/Setting.md",
     "C++/0.index.md",
+    "C++/1. memory.md",
+    "More/실수는 메모리에 어떻게 저장될까?.md",
+    "More",
     "무제 파일.md",
     "독서/1. 불온한 것들의 미학.md",
     "Assets/메모리와변수.png",
@@ -232,9 +236,6 @@
     "이터러블(Iterable).md",
     "원시값과 객체의 비교.md",
     "요점문제1.md",
-    "식별자.md",
-    "스코프(Scope).md",
-    "숫자(number).md",
     "무제 파일.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
