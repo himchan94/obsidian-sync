@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba5ae0efff495069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/0.index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af1b94ea8f31665c",
             "type": "leaf",
             "state": {
@@ -57,11 +45,9 @@
             "id": "371643cbe1be6934",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "C++/4. 기본 개념.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/namespace.png"
               }
             }
           },
@@ -77,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/4. 기본 개념.md",
+                "file": "Assets/메모리.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/4. 기본 개념.md",
+                "file": "Assets/메모리.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/4. 기본 개념.md"
+                "file": "Assets/메모리.png"
               }
             }
           },
@@ -214,9 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "371643cbe1be6934",
+  "active": "af1b94ea8f31665c",
   "lastOpenFiles": [
+    "무제 파일.canvas",
     "C++/0.index.md",
+    "홈서버",
+    "Assets/namespace.png",
     "C++/4. 기본 개념.md",
     "C++/1. memory.md",
     "C++/2. 변수.md",
@@ -247,8 +235,6 @@
     "콜백함수.md",
     "정보처리기사.md",
     "이터러블(Iterable).md",
-    "원시값과 객체의 비교.md",
-    "무제 파일.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
@@ -264,7 +250,6 @@
     "Pasted image 20240213225845.png",
     "Pasted image 20240213225831.png",
     "Pasted image 20240131235439.png",
-    "Pasted image 20240131235316.png",
     "Frameworkless",
     "CSS",
     "30 days"
