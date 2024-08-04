@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/0.index.md",
+                "file": "C++/0.0 Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/0.index.md",
+                "file": "C++/0.0 Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/0.index.md",
+                "file": "C++/0.0 Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/0.index.md"
+                "file": "C++/0.0 Progress.md"
               }
             }
           },
@@ -203,12 +203,14 @@
   },
   "active": "af1b94ea8f31665c",
   "lastOpenFiles": [
+    "YouTube_Video_Information.csv",
+    "C++/0.index.md",
+    "C++/0.0 Progress.md",
     "C++/2. 변수.md",
     "C++/1. memory.md",
     "C++/3. 타입.md",
     "Assets/메모리.png",
     "무제 파일.canvas",
-    "C++/0.index.md",
     "홈서버",
     "Assets/namespace.png",
     "C++/4. 기본 개념.md",
@@ -236,7 +238,6 @@
     "표현식과 문.md",
     "콜백함수.md",
     "정보처리기사.md",
-    "이터러블(Iterable).md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
