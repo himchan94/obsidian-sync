@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6b1f25ca8b53c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "C++/0.index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "C++/0.index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "C++/0.index.md"
               }
             }
           },
@@ -169,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6b1f25ca8b53c9e",
+  "active": "31710e3add85cd9a",
   "lastOpenFiles": [
-    "C++/0.index.md",
+    "무제 파일.canvas",
     "무제 파일.md",
+    "C++/0.index.md",
     "C++/0.0 Progress.md",
     "C++/3. 타입.md",
     "C++/2. 변수.md",
@@ -184,7 +172,6 @@
     "More/실수는 메모리에 어떻게 저장될까?.md",
     "Assets/cpp_progress.csv",
     "YouTube_Video_Information.csv",
-    "무제 파일.canvas",
     "홈서버",
     "C++/4. 기본 개념.md",
     "About Obsidian/Sync.md",
