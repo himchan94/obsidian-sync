@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Obsidian/Sync.md",
+                "file": "C++/1. memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "About Obsidian/Sync.md",
+            "file": "C++/1. memory.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "About Obsidian/Sync.md",
+            "file": "C++/1. memory.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "About Obsidian/Sync.md"
+            "file": "C++/1. memory.md"
           }
         }
       }
@@ -134,8 +134,24 @@
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
-    "About Obsidian/Drawing 2024-07-16 12.51.42.excalidraw.md",
+    "C++/0.0 Progress.md",
     "About Obsidian/Sync.md",
+    "More",
+    "Assets/namespace.png",
+    "Assets",
+    "Assets/cpp_progress.csv",
+    "Assets/메모리와변수.png",
+    "C++/1. memory.md",
+    "C++",
+    "무제 파일.md",
+    "Assets/메모리.png",
+    "More/실수는 메모리에 어떻게 저장될까?.md",
+    "C++/3. 타입.md",
+    "C++/2. 변수.md",
+    "cpp_progress.csv",
+    "무제 파일.canvas",
+    "C++/0.index.md",
+    "About Obsidian/Drawing 2024-07-16 12.51.42.excalidraw.md",
     "About Obsidian/Setting.md",
     "기본기/linux 명령어.md",
     "독서/1. 불온한 것들의 미학.md",
@@ -156,8 +172,6 @@
     "독서",
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
-    "자료구조와 알고리즘(C++)",
-    "기본기/기본기 (Index).md",
-    "기본기"
+    "기본기/기본기 (Index).md"
   ]
 }
