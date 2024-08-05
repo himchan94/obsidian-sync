@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/1. memory.md",
+                "file": "C++/3. 타입.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C++/1. memory.md",
+            "file": "C++/3. 타입.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C++/1. memory.md",
+            "file": "C++/3. 타입.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C++/1. memory.md"
+            "file": "C++/3. 타입.md"
           }
         }
       }
@@ -123,17 +123,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "C++/1. memory.md",
     "C++/0.0 Progress.md",
     "About Obsidian/Sync.md",
     "More",
@@ -141,7 +142,6 @@
     "Assets",
     "Assets/cpp_progress.csv",
     "Assets/메모리와변수.png",
-    "C++/1. memory.md",
     "C++",
     "무제 파일.md",
     "Assets/메모리.png",
