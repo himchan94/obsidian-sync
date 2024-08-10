@@ -155,3 +155,37 @@ int main() {
 
 ### 5. 문자열 추가, 수정
 
+```cpp
+
+#include <iostream>
+
+#include <string>
+
+  
+
+using namespace std;
+
+int main() {
+
+    string str = "APPLE";
+
+    // 문자열 추가
+
+    str += ", World!";
+    cout << str << endl; // APPLE, World!
+
+    // 문자열 수정
+
+    str[7] = 'P';
+    cout << str << endl; // APPLE, Porld!
+
+  
+
+    str.replace(7, 4, "Col");
+    cout << str << endl; // APPLE, Cold!
+
+    return 0;
+
+}
+
+```
