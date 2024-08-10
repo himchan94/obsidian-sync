@@ -189,3 +189,47 @@ int main() {
 }
 
 ```
+
+
+### 6. 상수 레퍼런스
+
+```cpp
+
+#include <stdio.h>
+
+#include <iostream>
+
+**using** **namespace** std;
+
+  
+
+**void** modify(**int** value) {
+
+    value = 10; // 새 공간의 value 변경
+
+    cout << "주소 " << &value << endl; // 주소 0x16fdff36c
+
+    cout << "값 " << value << endl; // 값 : 10
+
+}
+
+  
+
+**int** main() {
+
+    **int** value = 5;
+
+    cout << "주소 : " << &value << endl; // 주소 : 0x16fdff3a8
+
+    cout << "값 : " << value << endl; // 값 : 5
+
+    modify(value);
+
+    cout << "값 : " << value << endl; // 값 : 5
+
+    **return** 0;
+
+}
+
+```
+
