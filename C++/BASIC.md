@@ -105,17 +105,53 @@ return 0;
 
 
 ```cpp
+//
+
+//  string_test.cpp
+
+//  cpp_programming
+
+//
+
+//  Created by himchan on 2024/08/10.
+
+//
+
+  
 #include <iostream>
 #include <string>
+
+  
 
 using namespace std;
 
 int main() {
 
+    string str = "Hello, C++ World!";
 
+    // Hello 문자열 찾기
+    size_t pos1 = str.find("Hello");
+    cout << pos1 << endl;
+
+    // C 문자 찾기
+    size_t pos2 = str.find('C');
+    cout << pos2 << endl; // 7
+
+    // Hello 문자열 찾기 시작 인덱스 지정
+    size_t start_index = 2;
+    size_t pos3 = str.find("Hello", start_index);
+    cout << pos3 << endl; // 18446744073709551615
+    cout << (pos3 == string::npos) << endl; // 1
+
+    // 존재하지 않는 문자열 찾기
+    size_t pos4 = str.find("Python");
+    cout << pos4 << endl; // 18446744073709551615
+
+    return 0;
 
 }
 
-
-
 ```
+
+### 5. 문자열 추가, 수정
+
