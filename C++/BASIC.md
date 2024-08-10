@@ -101,13 +101,14 @@ return 0;
 
 **find(찾으려는 문자열, 탐색 시작 위치)**
 
-***찾지 못하면 string::npos 를 반환한ㄷ*
+***찾지 못하면 string::npos 를 반환한다.*
 
 
 ```cpp
 #include <iostream>
 #include <string>
 
+using namespace std;
 
 int main() {
 
