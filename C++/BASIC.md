@@ -223,3 +223,72 @@ int main() {
 }
 ```
 
+
+### 7. 참조 레퍼런스
+
+```cpp
+#include <stdio.h>
+#include <iostream>
+
+using namespace std;
+
+void modify(int& value) {
+    value = 10; // 새 공간의 value 변경
+    cout << "주소 " << &value << endl; // 주소 0x16fdff3a8
+    cout << "값 " << value << endl; // 값 : 10
+}
+
+int main() {
+    int value = 5;
+    cout << "주소 : " << &value << endl; // 주소 : 0x16fdff3a8
+    cout << "값 : " << value << endl; // 값 : 5
+    modify(value);
+    cout << "값 : " << value << endl; // 값 : 10
+    
+    return 0;
+    
+}
+
+```
+
+
+##### & 연산자
+
+1. **참조(Reference)를 선언할 때**
+
+- **문법**: `int& ref = original;`
+- **설명**: 변수 `ref`가 변수 `original`을 참조하게 만듭니다. 참조는 원본 변수에 대한 또 다른 이름이 됩니다. 이를 통해 `ref`를 통해 `original`의 값을 변경할 수 있습니다.
+
+```cpp
+
+int x = 5;
+int& ref = x; // ref는 x를 참조
+ref = 10; // x의 값도 10으로 변경됨
+
+
+```
+
+2. **주소 연산자(Address-of Operator)로 사용할 때**
+
+- **문법**: `int* ptr = &original;`
+- **설명**: 변수 `original`의 메모리 주소를 반환합니다. 이 주소는 포인터에 저장할 수 있습니다.
+
+```cpp
+int x = 5;
+int* ptr = &x; // ptr는 x의 주소를 가리킴
+
+```
+
+
+4. **비트 연산자(Bitwise AND Operator)로 사용할 때**
+
+- **문법**: `result = a & b;`
+- **설명**: 두 정수의 비트별 AND 연산을 수행합니다. 각 비트가 모두 1인 경우 결과가 1이 됩니다.
+   
+```cpp
+
+int a = 5; // 0101 
+int b = 3; // 0011 
+int result = a & b; // 0001 (result는 1)
+
+```
