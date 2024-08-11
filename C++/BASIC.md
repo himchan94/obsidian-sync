@@ -407,10 +407,73 @@ int main() {
 
 ```
 
+```cpp
+
+#include <iostream>
+#include <map>
+using namespace std;
+
+int main() {
+    map<string, int> myMap = {{"apple", 1},{"banana", 2},{"cherry", 3}};
+    
+    for (auto it = myMap.begin(); it != myMap.end(); ++it){
+        cout << it->first << ": " << it->second << endl;
+    }
+    /**
+     apple: 1
+     banana: 2
+     cherry: 3
+     */
+    
+    auto result = myMap.find("banana");
+    if(result != myMap.end()){
+        cout << "Found: " << result->first << " -> " << result->second << endl;
+    } else {
+        cout << "Not found" << endl;
+    }
+    
+    return 0;
+}
+
+```
+
+
 
 ###### 역방향 반복자
+rbegin(), rend()를 사용한다. 
+rbegin()은 맨 마지막 원소의 위치, rend()는 맨 처음 원소의 바로 직전 위치
+
+```cpp
+
+#include <algorithm>
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main(){
+    vector<int> vec = {10, 20, 30, 40, 50};
+    
+    // 순회하고 출력
+    for(auto it = vec.rbegin(); it != vec.rend(); ++it){
+        cout << *it << " ";
+    }
+    cout << endl;
+    // 50 40 30 20 10
+
+    auto result = find(vec.rbegin(), vec.rend(), 30);
+    if(result != vec.rend()){
+        cout << "Found: " << *result << endl;
+    } else {
+        cout << "Not found" << endl;
+    }
+    // Found: 30
+    
+    return 0;
+}
 
 
+```
 
 
 
