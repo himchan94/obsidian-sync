@@ -377,6 +377,36 @@ int main() {
 
 ###### 순방향 반복자
 
+```cpp
+
+#include <algorithm> // find 함수를 위한 헤더
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+    vector<int> vec = {10, 20, 30, 40, 50};
+    
+    for (auto it = vec.begin(); it != vec.end(); ++it){
+        cout << *it << " ";
+    }
+    
+    cout << endl;
+    // 10 20 30 40 50
+    
+    auto result = find(vec.begin(), vec.end(), 30);
+    if (result != vec.end()){
+        cout << "FOUND: " << *result << endl;
+    } else {
+        cout << "Not found" << endl;
+    }
+    // FOUND: 30
+    return 0;
+}
+
+```
+
 
 ###### 역방향 반복자
 
