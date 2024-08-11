@@ -292,3 +292,79 @@ int b = 3; // 0011
 int result = a & b; // 0001 (result는 1)
 
 ```
+
+
+### 8. auto문
+
+STL은 어떤 타입이라도 사용할 수 있도록 구현되어 있다. 하지만 타입이 복잡할 때 실수할 가능성이 있다.
+이때 auto 키워드를 사용하면 변수의 타입을 자동으로 추론할 수 있다.
+
+```cpp
+
+#include <iostream>
+#include <vector>
+#include <map>
+#include <string>
+
+int main() {
+	auto num = 42;
+	cout << num << endl; // 출력값 42
+
+
+	auto pi = 3.14159; // double로 추론
+	cout << pi << endl; 
+
+	auto gretting = string("Hello, world!");
+	cout << greeting << endl; // 출력값 : Hello, world!
+
+	return 0;
+}
+```
+
+
+### 9. 범위 기반 반복문
+
+***배열이나 컨테이너의 모든 원소를 순회할 때 사용한다. 기본 반복문보다 구현이 쉽고, 가독성이 좋다.
+
+
+```cpp
+
+#include <iostream>
+#include <vector>
+#include <map>
+#include <set>
+
+using namespace std;
+
+int main() {
+    // vector 예
+    vector<int> vec = {1, 2, 3, 4, 5};
+    for (int num: vec){
+        cout << num << " ";
+    }
+    
+    cout << endl;
+    // 1 2 3 4 5
+    // map 예
+    map<string, int> fruitMap = {{"apple", 1}, {"banana", 2}, {"cherry", 3}};
+    for (const auto& pair: fruitMap){
+        cout << pair.first << " = "<< pair.second << " ";
+    }
+    
+    cout << endl;
+    // apple = 1 banana = 2 cherry = 3
+
+    // set 예
+    set<string> fruitSet = {"apple", "banana", "cherry"};
+    cout << "Set: ";
+    for (const auto& fruit : fruitSet){
+        cout << fruit << " ";
+    }
+    
+    cout << endl;
+    // Set: apple banana cherry
+    
+    return 0;
+}
+
+```
