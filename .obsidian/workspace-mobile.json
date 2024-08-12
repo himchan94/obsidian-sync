@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "C++/BASIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "C++/3. 타입.md",
+            "file": "C++/BASIC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "C++/3. 타입.md",
+            "file": "C++/BASIC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "C++/3. 타입.md"
+            "file": "C++/BASIC.md"
           }
         }
       }
@@ -134,6 +134,8 @@
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "C++/3. 타입.md",
+    "C++/BASIC.md",
     "C++/1. memory.md",
     "C++/0.0 Progress.md",
     "About Obsidian/Sync.md",
@@ -146,7 +148,6 @@
     "무제 파일.md",
     "Assets/메모리.png",
     "More/실수는 메모리에 어떻게 저장될까?.md",
-    "C++/3. 타입.md",
     "C++/2. 변수.md",
     "cpp_progress.csv",
     "무제 파일.canvas",
