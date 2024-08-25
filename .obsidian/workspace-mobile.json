@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "148cd43f009840a6",
+        "id": "fb38520a072ca113",
         "type": "tabs",
         "children": [
           {
-            "id": "c99ae2fa97b22d3f",
+            "id": "d81d2a2e42f5604b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,11 +107,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "무제 파일 1.canvas"
+          }
+        }
+      },
+      {
+        "id": "f5d588551bbe048b",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,8 +134,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c99ae2fa97b22d3f",
+  "active": "dda8fa68b46c4c31",
   "lastOpenFiles": [
+    "2024-08-25.md",
+    "무제 파일 1.canvas",
     "More",
     "More/실수는 메모리에 어떻게 저장될까?.md",
     "cpp_progress.csv",
