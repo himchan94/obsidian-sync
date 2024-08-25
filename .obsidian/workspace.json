@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c719e84b9604aa01",
+        "id": "26c1fb370c877346",
         "type": "tabs",
         "children": [
           {
-            "id": "31710e3add85cd9a",
+            "id": "10f88a830eb69d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/BASIC.md",
+                "file": "React/0. index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/BASIC.md",
+                "file": "React/0. index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/BASIC.md",
+                "file": "React/0. index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/BASIC.md"
+                "file": "React/0. index.md"
               }
             }
           },
@@ -156,16 +156,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31710e3add85cd9a",
+  "active": "10f88a830eb69d45",
   "lastOpenFiles": [
+    "React/1. Design pattern.md",
+    "React/0. index.md",
+    "C++/BASIC-2.md",
+    "React",
+    "무제 파일.md",
+    "무제 파일.canvas",
+    "C++/BASIC-1.md",
     "C++/0.index.md",
     "C++/0.0 Progress.md",
     "C++/1. memory.md",
     "C++/2. 변수.md",
     "C++/3. 타입.md",
-    "C++/BASIC.md",
-    "무제 파일.canvas",
-    "무제 파일.md",
     "Assets/namespace.png",
     "cpp_progress.csv",
     "Assets/메모리.png",
@@ -193,9 +197,6 @@
     "수학/0. 수학 (Index).md",
     "기본기/1. linux 명령어.md",
     "Without Framework/framework.md",
-    "표현식과 문.md",
-    "콜백함수.md",
-    "정보처리기사.md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
@@ -211,7 +212,6 @@
     "Pasted image 20240213225845.png",
     "Pasted image 20240213225831.png",
     "Pasted image 20240131235439.png",
-    "Frameworkless",
-    "CSS"
+    "Frameworkless"
   ]
 }
