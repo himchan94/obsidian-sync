@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31faa564f9970600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/0. index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,10 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10f88a830eb69d45",
+  "active": "aae7cdb785296965",
   "lastOpenFiles": [
     "React/1. Design pattern.md",
     "React/0. index.md",
+    "React/2. SOLID.md",
+    "2024-08-25.md",
+    "2024-08-13.md",
     "C++/BASIC-2.md",
     "React",
     "무제 파일.md",
@@ -194,9 +210,6 @@
     "C++",
     "기본기/기본기 (Index).md",
     "기본기/linux 명령어.md",
-    "수학/0. 수학 (Index).md",
-    "기본기/1. linux 명령어.md",
-    "Without Framework/framework.md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
