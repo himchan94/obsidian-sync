@@ -11,8 +11,15 @@
             "id": "d81d2a2e42f5604b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 267,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "무제 파일.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "무제 파일.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일 1.canvas"
+            "file": "무제 파일.canvas"
           }
         }
       },
@@ -134,14 +143,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dda8fa68b46c4c31",
+  "active": "d81d2a2e42f5604b",
   "lastOpenFiles": [
     "2024-08-25.md",
+    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "More",
     "More/실수는 메모리에 어떻게 저장될까?.md",
     "cpp_progress.csv",
-    "무제 파일.canvas",
     "무제 파일.md",
     "C++/2. 변수.md",
     "C++/BASIC.md",
