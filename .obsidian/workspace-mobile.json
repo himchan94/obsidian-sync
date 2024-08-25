@@ -11,14 +11,11 @@
             "id": "d81d2a2e42f5604b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 267,
-                  "zoom": 0
-                }
+                "file": "2024-08-25.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일.canvas",
+            "file": "2024-08-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "무제 파일.canvas",
+            "file": "2024-08-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일.canvas"
+            "file": "2024-08-25.md"
           }
         }
       },
@@ -143,10 +140,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dda8fa68b46c4c31",
+  "active": "d81d2a2e42f5604b",
   "lastOpenFiles": [
-    "2024-08-25.md",
     "무제 파일.canvas",
+    "2024-08-25.md",
     "무제 파일 1.canvas",
     "More",
     "More/실수는 메모리에 어떻게 저장될까?.md",
