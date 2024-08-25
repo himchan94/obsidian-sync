@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f164f977a1fd6101",
+        "id": "c719e84b9604aa01",
         "type": "tabs",
         "children": [
           {
-            "id": "b261bfa56db8238b",
+            "id": "31710e3add85cd9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/BASIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/BASIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md",
+                "file": "C++/BASIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서/1. 불온한 것들의 미학.md"
+                "file": "C++/BASIC.md"
               }
             }
+          },
+          {
+            "id": "e85633240b554d4c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,11 +152,42 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b261bfa56db8238b",
+  "active": "31710e3add85cd9a",
   "lastOpenFiles": [
+    "C++/0.index.md",
+    "C++/0.0 Progress.md",
+    "C++/1. memory.md",
+    "C++/2. 변수.md",
+    "C++/3. 타입.md",
+    "C++/BASIC.md",
+    "무제 파일.canvas",
+    "무제 파일.md",
+    "Assets/namespace.png",
+    "cpp_progress.csv",
+    "Assets/메모리.png",
+    "Assets/메모리와변수.png",
+    "More/실수는 메모리에 어떻게 저장될까?.md",
+    "Assets/cpp_progress.csv",
+    "YouTube_Video_Information.csv",
+    "홈서버",
+    "C++/4. 기본 개념.md",
+    "About Obsidian/Sync.md",
+    "About Obsidian/Setting.md",
+    "More",
+    "독서/1. 불온한 것들의 미학.md",
+    "템플릿/2. 독서.md",
+    "Assets",
+    "IMAGES.md",
+    "Pasted image 20240804031344.png",
+    "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
+    "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
+    "템플릿/1. 기본 템플릿.md",
+    "C++/1. 메모리.md",
+    "C++",
     "기본기/기본기 (Index).md",
     "기본기/linux 명령어.md",
     "수학/0. 수학 (Index).md",
@@ -156,29 +196,10 @@
     "표현식과 문.md",
     "콜백함수.md",
     "정보처리기사.md",
-    "이터러블(Iterable).md",
-    "원시값과 객체의 비교.md",
-    "요점문제1.md",
-    "식별자.md",
-    "스코프(Scope).md",
-    "숫자(number).md",
-    "순수함수와 비순수 함수.md",
-    "불변성.md",
-    "변수(variable).md",
-    "변수 선언.md",
-    "문자열(string).md",
-    "무제 파일.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "명령형 프로그래밍.md",
-    "렉시컬 환경.md",
-    "동작과정.md",
-    "데이터 타입.md",
-    "데이터 속성.md",
-    "객체 (object).md",
-    "var, let, const.md",
     "basic",
     "Untitled.canvas",
     "Untitled 3.canvas",
@@ -190,12 +211,7 @@
     "Pasted image 20240213225845.png",
     "Pasted image 20240213225831.png",
     "Pasted image 20240131235439.png",
-    "Pasted image 20240131235316.png",
-    "Pasted image 20240131235252.png",
-    "Pasted image 20240131235148.png",
-    "Pasted image 20240131235007.png",
     "Frameworkless",
-    "CSS",
-    "30 days"
+    "CSS"
   ]
 }
