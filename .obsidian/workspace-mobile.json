@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ee863a2d88574925",
+    "id": "29c2580e35878aa3",
     "type": "split",
     "children": [
       {
-        "id": "630320be6ffc5cbe",
+        "id": "148cd43f009840a6",
         "type": "tabs",
         "children": [
           {
-            "id": "714f138d65c386cd",
+            "id": "c99ae2fa97b22d3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Obsidian/Sync.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9da43e8f88b72ae3",
+    "id": "6bc92a33344736cf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4551d8dbb81703bb",
+        "id": "dda8fa68b46c4c31",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "6b695309af741fbd",
+        "id": "d18a0a052a79cc8f",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "b367d3975c18dbb3",
+        "id": "d32623ac6432f750",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "5485d96ba7de1545",
+        "id": "dca2702fe80b810e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "792a28bce4ba65bc",
+    "id": "96ce9e7c1291c317",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c89eab9027dd2d87",
+        "id": "f3445a9cb5089792",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "About Obsidian/Sync.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "24143e4cf813ccba",
+        "id": "725c5acad24ce8a2",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "About Obsidian/Sync.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "ff6d7840c7e9ba33",
+        "id": "ea4e0f60fb71d634",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "About Obsidian/Sync.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,31 +123,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "714f138d65c386cd",
+  "active": "c99ae2fa97b22d3f",
   "lastOpenFiles": [
-    "About Obsidian/Setting.md",
-    "기본기/linux 명령어.md",
+    "2024-08-13.md",
+    "무제 파일.canvas",
     "독서/1. 불온한 것들의 미학.md",
-    "기본기/1. linux 명령어.md",
-    "test.md",
-    "수학/1. Discrete math.md",
-    "수학/0.기본기.md",
-    "수학/0. 수학 (Index).md",
-    "수학",
-    "템플릿/2. 독서.md",
-    "템플릿/1. 기본 템플릿.md",
-    "템플릿",
-    "컴퓨터 과학/1. 네트워크.md",
-    "컴퓨터 과학/0.  컴퓨터 과학.md",
-    "컴퓨터 과학",
-    "About Obsidian/Sync.md",
-    "About Obsidian",
-    "독서/0. 독서.md",
-    "독서",
-    "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
-    "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
-    "자료구조와 알고리즘(C++)",
+    "기본기/linux 명령어.md",
     "기본기/기본기 (Index).md",
-    "기본기"
+    "수학/1. Discrete math.md",
+    "수학/0. 수학 (Index).md",
+    "기본기/1. linux 명령어.md"
   ]
 }
