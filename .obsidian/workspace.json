@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/0. index.md",
+                "file": "Future Job/0. index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/0. index.md",
+                "file": "Future Job/0. index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/0. index.md",
+                "file": "Future Job/0. index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,32 +131,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c3a16e2973d29609",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "React/0. index.md"
-              }
-            }
-          },
-          {
-            "id": "e85633240b554d4c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +150,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "286af7d4607c06aa",
   "lastOpenFiles": [
-    "React/1. Design pattern.md",
     "React/0. index.md",
+    "Future Job/0. index.md",
+    "Future Job",
+    "무제 파일.canvas",
+    "React/1. Design pattern.md",
     "React/2. SOLID.md",
     "2024-08-25.md",
     "2024-08-13.md",
     "C++/BASIC-2.md",
     "React",
     "무제 파일.md",
-    "무제 파일.canvas",
     "C++/BASIC-1.md",
     "C++/0.index.md",
     "C++/0.0 Progress.md",
@@ -209,7 +192,6 @@
     "C++/1. 메모리.md",
     "C++",
     "기본기/기본기 (Index).md",
-    "기본기/linux 명령어.md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
@@ -224,7 +206,6 @@
     "Pasted image 20240213230132.png",
     "Pasted image 20240213225845.png",
     "Pasted image 20240213225831.png",
-    "Pasted image 20240131235439.png",
-    "Frameworkless"
+    "Pasted image 20240131235439.png"
   ]
 }
