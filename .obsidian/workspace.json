@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "699d2bc0ae2a9199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +153,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71cd1dc11b68679e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제 파일 1.md"
               }
             }
           }
@@ -162,10 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4874a03bc51fee34",
+  "active": "699d2bc0ae2a9199",
   "lastOpenFiles": [
-    "Future Job/0. index.md",
     "무제 파일.md",
+    "무제 파일 1.md",
+    "Future Job/0. index.md",
     "React/0. index.md",
     "Future Job",
     "무제 파일.canvas",
@@ -203,7 +226,6 @@
     "템플릿/1. 기본 템플릿.md",
     "C++/1. 메모리.md",
     "C++",
-    "기본기/기본기 (Index).md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
