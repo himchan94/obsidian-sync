@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "265a3891936c06d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "31faa564f9970600",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/0. index.md",
+                "file": "무제 파일 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/0. index.md",
+                "file": "무제 파일 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,16 +187,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/0. index.md"
+                "file": "무제 파일 3.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10f88a830eb69d45",
+  "active": "265a3891936c06d1",
   "lastOpenFiles": [
+    "React/0. index.md",
+    "무제 파일 3.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
     "무제 파일.md",
     "Future Job/0. index.md",
-    "React/0. index.md",
     "Future Job",
     "무제 파일.canvas",
     "React/1. Design pattern.md",
@@ -235,7 +251,6 @@
     "Pasted image 20240804031344.png",
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
-    "템플릿/1. 기본 템플릿.md",
     "C++",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
