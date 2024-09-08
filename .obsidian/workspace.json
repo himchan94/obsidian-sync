@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "무제 파일 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -210,11 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "265a3891936c06d1",
+  "active": "3f241639ce3a89ba",
   "lastOpenFiles": [
-    "React/0. index.md",
-    "무제 파일 3.md",
     "무제 파일 2.md",
+    "무제 파일 3.md",
+    "React/0. index.md",
     "무제 파일 1.md",
     "무제 파일.md",
     "Future Job/0. index.md",
