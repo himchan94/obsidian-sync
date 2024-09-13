@@ -34,7 +34,7 @@ vector<int> thirdPattern = {3,3,1,1,2,2,4,4,5,5};
 
 
 for(int i = 0; i < arr.size(); i++){
-	for(j = 0' j < arr[i].size(); j ++){
+	for(j = 0; j < arr[i].size(); j ++){
 		
 	
 	}

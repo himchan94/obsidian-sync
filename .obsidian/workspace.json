@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "578e5dd37d110c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52b170a4c4090936",
+  "active": "578e5dd37d110c29",
   "lastOpenFiles": [
-    "C++/0.index.md",
+    "추계.md",
     "temp.md",
+    "C++/0.index.md",
     "C++/0.0 Progress.md",
     "Future Job/0. index.md",
     "C++/BASIC-1.md",
@@ -201,7 +214,6 @@
     "Assets",
     "IMAGES.md",
     "Pasted image 20240804031344.png",
-    "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
     "C++",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
