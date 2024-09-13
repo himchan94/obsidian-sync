@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Future Job/0. index.md",
+                "file": "C++/0.index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b170a4c4090936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Future Job/0. index.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Future Job/0. index.md",
+                "file": "temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Future Job/0. index.md"
+                "file": "temp.md"
               }
             }
           }
@@ -148,14 +161,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3efcde82ef0b1e50",
+  "active": "52b170a4c4090936",
   "lastOpenFiles": [
-    "C++/BASIC-1.md",
     "C++/0.index.md",
+    "temp.md",
     "C++/0.0 Progress.md",
+    "Future Job/0. index.md",
+    "C++/BASIC-1.md",
     "React/0. index.md",
     "무제 파일 3.md",
-    "Future Job/0. index.md",
     "무제 파일.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
@@ -188,7 +202,6 @@
     "IMAGES.md",
     "Pasted image 20240804031344.png",
     "자료구조와 알고리즘(C++)/1. 자료구조와 알고리즘.md",
-    "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "C++",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
