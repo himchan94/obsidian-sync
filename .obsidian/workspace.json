@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/BASIC-1.md",
+                "file": "Future Job/0. index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/BASIC-1.md",
+                "file": "Future Job/0. index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/BASIC-1.md",
+                "file": "Future Job/0. index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/BASIC-1.md"
+                "file": "Future Job/0. index.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "3efcde82ef0b1e50",
   "lastOpenFiles": [
+    "C++/BASIC-1.md",
     "C++/0.index.md",
     "C++/0.0 Progress.md",
     "React/0. index.md",
@@ -166,7 +167,6 @@
     "2024-08-13.md",
     "C++/BASIC-2.md",
     "React",
-    "C++/BASIC-1.md",
     "C++/1. memory.md",
     "C++/2. 변수.md",
     "C++/3. 타입.md",
