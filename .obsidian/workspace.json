@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1361cacc1f1c5900",
+        "id": "71040cb407ad3ada",
         "type": "tabs",
         "children": [
           {
-            "id": "3efcde82ef0b1e50",
+            "id": "784fc905c248d863",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/0.index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52b170a4c4090936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578e5dd37d110c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/BASIC-2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/BASIC-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/BASIC-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/BASIC-2.md"
+                "file": "무제 파일 4.md"
               }
             }
           }
@@ -173,12 +142,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "578e5dd37d110c29",
+  "active": "aae7cdb785296965",
   "lastOpenFiles": [
+    "Problems",
+    "무제 파일 4.md",
+    "C++/무제 폴더",
+    "C++/0.index.md",
+    "temp.md",
+    "C++/BASIC-2.md",
     "C++/BASIC-1.md",
     "추계.md",
-    "temp.md",
-    "C++/0.index.md",
     "C++/0.0 Progress.md",
     "Future Job/0. index.md",
     "React/0. index.md",
@@ -192,7 +165,6 @@
     "React/2. SOLID.md",
     "2024-08-25.md",
     "2024-08-13.md",
-    "C++/BASIC-2.md",
     "React",
     "C++/1. memory.md",
     "C++/2. 변수.md",
@@ -210,16 +182,13 @@
     "About Obsidian/Setting.md",
     "More",
     "독서/1. 불온한 것들의 미학.md",
-    "템플릿/2. 독서.md",
     "Assets",
-    "IMAGES.md",
     "Pasted image 20240804031344.png",
     "C++",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "basic",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
