@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/BASIC-2.md",
+                "file": "Problems/C++/Array/0.index.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/BASIC-2.md",
+                "file": "Problems/C++/Array/0.index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/BASIC-2.md",
+                "file": "Problems/C++/Array/0.index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/BASIC-2.md"
+                "file": "Problems/C++/Array/0.index.md"
               }
             }
           }
@@ -174,11 +174,13 @@
   },
   "active": "784fc905c248d863",
   "lastOpenFiles": [
-    "Problems/C++/0.index.md",
+    "Problems/C++/Array/7.md",
     "Problems/C++/Array/0.index.md",
+    "Problems/C++/Array/6.md",
+    "C++/BASIC-2.md",
+    "Problems/C++/0.index.md",
     "추계.md",
     "temp.md",
-    "Problems/C++/Array/6.md",
     "Problems/C++/Array/1.md",
     "Problems/C++/Array",
     "무제 파일 4.md",
@@ -186,7 +188,6 @@
     "Problems",
     "C++/무제 폴더",
     "C++/0.index.md",
-    "C++/BASIC-2.md",
     "C++/BASIC-1.md",
     "C++/0.0 Progress.md",
     "Future Job/0. index.md",
@@ -213,7 +214,6 @@
     "Assets/cpp_progress.csv",
     "YouTube_Video_Information.csv",
     "홈서버",
-    "C++/4. 기본 개념.md",
     "Pasted image 20240804031344.png",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
