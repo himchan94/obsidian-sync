@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/C++/Array/6.md",
+                "file": "추계.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/C++/Array/6.md",
+                "file": "추계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/C++/Array/6.md",
+                "file": "추계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/C++/Array/6.md"
+                "file": "추계.md"
               }
             }
           }
@@ -173,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "57b207f1806de314",
   "lastOpenFiles": [
-    "Problems/C++/Array/0.index.md",
+    "temp.md",
     "Problems/C++/Array/6.md",
+    "Problems/C++/Array/0.index.md",
     "Problems/C++/Array/1.md",
     "Problems/C++/0.index.md",
     "Problems/C++/Array",
@@ -185,7 +186,6 @@
     "Problems",
     "C++/무제 폴더",
     "C++/0.index.md",
-    "temp.md",
     "C++/BASIC-2.md",
     "C++/BASIC-1.md",
     "추계.md",
