@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/4. 포인터.md",
+                "file": "C++/3. 타입.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/4. 포인터.md",
+                "file": "C++/3. 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/4. 포인터.md",
+                "file": "C++/3. 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/4. 포인터.md"
+                "file": "C++/3. 타입.md"
               }
             }
           }
@@ -175,12 +175,12 @@
   },
   "active": "b8bf17fa42e63bfe",
   "lastOpenFiles": [
+    "C++/4. 포인터.md",
     "Pasted image 20240922165710.png",
     "Pasted image 20240922162907.png",
     "JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "JPEG 이미지-45C8-8820-8F-0.jpeg",
     "추계.md",
-    "C++/4. 포인터.md",
     "C++/0.index.md",
     "C++/1. memory.md",
     "Problems/C++/Array/0.index.md",
@@ -228,7 +228,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240219001151.png",
-    "Pasted image 20240219000949.png",
-    "Pasted image 20240213230132.png"
+    "Pasted image 20240219000949.png"
   ]
 }
