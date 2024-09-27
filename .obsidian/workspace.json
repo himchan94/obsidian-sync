@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/C++/Stack/1.md",
+                "file": "Problems/C++/Stack/0. index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/C++/Stack/1.md",
+                "file": "Problems/C++/Stack/0. index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/C++/Stack/1.md",
+                "file": "Problems/C++/Stack/0. index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/C++/Stack/1.md"
+                "file": "Problems/C++/Stack/0. index.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "b8bf17fa42e63bfe",
   "lastOpenFiles": [
-    "Problems/C++/Stack/0. index.md",
     "Problems/C++/Stack/1.md",
+    "Problems/C++/Stack/0. index.md",
     "무제 파일 3.md",
     "무제 파일 4.md",
     "Problems/C++/0.index.md",
