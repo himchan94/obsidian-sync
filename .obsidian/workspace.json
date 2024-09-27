@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/C++/Stack/0. index.md",
+                "file": "Problems/C++/Stack/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/C++/Stack/0. index.md",
+                "file": "Problems/C++/Stack/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/C++/Stack/0. index.md",
+                "file": "Problems/C++/Stack/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/C++/Stack/0. index.md"
+                "file": "Problems/C++/Stack/2.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   "active": "b8bf17fa42e63bfe",
   "lastOpenFiles": [
     "Problems/C++/Stack/1.md",
+    "Problems/C++/Stack/2.md",
     "Problems/C++/Stack/0. index.md",
     "무제 파일 3.md",
     "무제 파일 4.md",
@@ -211,7 +212,6 @@
     "무제 파일.canvas",
     "React/1. Design pattern.md",
     "React/2. SOLID.md",
-    "2024-08-25.md",
     "React",
     "Assets/namespace.png",
     "cpp_progress.csv",
