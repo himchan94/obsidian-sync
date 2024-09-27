@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "Problems/C++/Stack/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "Problems/C++/Stack/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/3. 타입.md",
+                "file": "Problems/C++/Stack/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/3. 타입.md"
+                "file": "Problems/C++/Stack/1.md"
               }
             }
           }
@@ -175,6 +175,13 @@
   },
   "active": "b8bf17fa42e63bfe",
   "lastOpenFiles": [
+    "Problems/C++/Stack/0. index.md",
+    "Problems/C++/Stack/1.md",
+    "무제 파일 3.md",
+    "무제 파일 4.md",
+    "Problems/C++/0.index.md",
+    "C++/3. 타입.md",
+    "Problems/C++/Stack",
     "C++/4. 포인터.md",
     "Pasted image 20240922165710.png",
     "Pasted image 20240922162907.png",
@@ -184,23 +191,19 @@
     "C++/0.index.md",
     "C++/1. memory.md",
     "Problems/C++/Array/0.index.md",
-    "C++/3. 타입.md",
     "C++/0.0 Progress.md",
     "Problems/C++/Array/7.md",
     "Problems/C++/Array/6.md",
     "C++/BASIC-2.md",
-    "Problems/C++/0.index.md",
     "temp.md",
     "Problems/C++/Array/1.md",
     "Problems/C++/Array",
-    "무제 파일 4.md",
     "Problems/C++",
     "Problems",
     "C++/무제 폴더",
     "C++/BASIC-1.md",
     "Future Job/0. index.md",
     "React/0. index.md",
-    "무제 파일 3.md",
     "무제 파일.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
@@ -209,7 +212,6 @@
     "React/1. Design pattern.md",
     "React/2. SOLID.md",
     "2024-08-25.md",
-    "2024-08-13.md",
     "React",
     "Assets/namespace.png",
     "cpp_progress.csv",
@@ -217,7 +219,6 @@
     "Assets/메모리와변수.png",
     "Assets/cpp_progress.csv",
     "YouTube_Video_Information.csv",
-    "홈서버",
     "Pasted image 20240804031344.png",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
