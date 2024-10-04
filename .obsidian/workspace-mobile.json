@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "0. 칸반보드.md",
+                "file": "0. 칸반보드 목록.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": []
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. 칸반보드.md",
+            "file": "0. 칸반보드 목록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. 칸반보드.md",
+            "file": "0. 칸반보드 목록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0. 칸반보드.md"
+            "file": "0. 칸반보드 목록.md"
           }
         }
       }
@@ -139,7 +139,7 @@
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
     "무제 파일 5.md",
-    "0. 칸반보드.md",
+    "0. 칸반보드 목록.md",
     "images/Pasted image 20241001192235.png",
     "images/Pasted image 20240922162907.png",
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
