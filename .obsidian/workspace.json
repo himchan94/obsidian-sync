@@ -11,11 +11,18 @@
             "id": "8f8f2d579bfac1bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "C++/0.index.md",
-                "mode": "source",
-                "source": false
+                "file": "칸반/독서 칸반.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           },
@@ -30,31 +37,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa5a6219d1cf038d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240922165710.png"
-              }
-            }
-          },
-          {
-            "id": "27ac1d70544614fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/4. 포인터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/4. 포인터.md",
+                "file": "칸반/독서 칸반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/4. 포인터.md",
+                "file": "칸반/독서 칸반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/4. 포인터.md"
+                "file": "칸반/독서 칸반.md"
               }
             }
           }
@@ -185,33 +169,35 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "27ac1d70544614fd",
+  "active": "8f8f2d579bfac1bb",
   "lastOpenFiles": [
-    "C++/BASIC-1.md",
+    "C++/0.index.md",
+    "이름 없는 보드.md",
+    "temp.md",
+    "images/Pasted image 20240922165710.png",
+    "Spring/무제 파일.md",
     "칸반/알고리즘 칸반.md",
+    "Spring/무제 파일 5.md",
+    "Spring/무제 파일 1.md",
+    "Spring/무제 파일 2.md",
+    "무제 파일 3.md",
+    "C++/0.0 Progress.md",
+    "C++/4. 포인터.md",
+    "C++/BASIC-1.md",
     "칸반/지식활동 칸반.md",
     "칸반/독서 칸반.md",
     "칸반/test.md",
     "칸반",
-    "C++/0.index.md",
     "Spring",
-    "무제 파일 5.md",
     "추계.md",
-    "무제 파일 3.md",
-    "무제 파일 1.md",
-    "무제 파일.md",
     "0. 칸반보드.md",
-    "C++/4. 포인터.md",
     "C++/BASIC-2.md",
     "images/Pasted image 20241001192235.png",
-    "images/Pasted image 20240922165710.png",
     "images",
-    "temp.md",
     "images/Pasted image 20240922162907.png",
     "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
     "무제 파일 4.md",
-    "무제 파일 2.md",
     "무제 파일.canvas",
     "2024-08-25.md",
     "2024-08-13.md",
@@ -221,8 +207,6 @@
     "Problems/C++/Stack/3.md",
     "Problems/C++/Stack/2.md",
     "Problems/C++/Stack/0. index.md",
-    "Problems/C++/Stack/1.md",
-    "Problems/C++/0.index.md",
     "Problems/C++/Stack",
     "Problems/C++/Array",
     "Problems/C++",
