@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44b3c61d34a8175d",
+        "id": "ac58cfa1546e4191",
         "type": "tabs",
         "children": [
           {
-            "id": "b533745353f6b794",
+            "id": "8d5d5a9126a2964f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monorepo/0. 목차.md",
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monorepo/0. 목차.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monorepo/0. 목차.md",
+                "file": "temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monorepo/0. 목차.md"
+                "file": "temp.md"
               }
             }
           }
@@ -150,17 +150,19 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "8d5d5a9126a2964f",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "수학/0.기본기.md",
+    "수학/0. 수학 (Index).md",
+    "Monorepo/0. 목차.md",
     "독후감",
     "독서/0. 독서.md",
-    "Monorepo/0. 목차.md",
     "More/실수는 메모리에 어떻게 저장될까?.md",
     "Problems/C++/Array/1.md",
     "Monorepo",
     "WEB",
     "Problems/C++/Array/0.index.md",
-    "무제 파일.canvas",
     "temp.md",
     "Problems/C++/Array/6.md",
     "칸반/독서 칸반.md",
@@ -182,18 +184,15 @@
     "Spring",
     "추계.md",
     "0. 칸반보드.md",
-    "C++/BASIC-2.md",
     "images/Pasted image 20241001192235.png",
     "images",
     "images/Pasted image 20240922162907.png",
     "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
-    "무제 파일 4.md",
     "KANBAN",
     "Problems/C++/Stack",
     "Problems/C++/Array",
     "Problems/C++",
-    "Problems",
     "Assets/namespace.png",
     "Assets/메모리.png",
     "Assets/메모리와변수.png",
