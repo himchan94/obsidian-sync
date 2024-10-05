@@ -47,7 +47,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "칸반/독서 칸반.md",
+                "file": "칸반/알고리즘 칸반.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "칸반/독서 칸반.md",
+                "file": "칸반/알고리즘 칸반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "칸반/독서 칸반.md",
+                "file": "칸반/알고리즘 칸반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "칸반/독서 칸반.md"
+                "file": "칸반/알고리즘 칸반.md"
               }
             }
           }
@@ -194,9 +194,9 @@
   },
   "active": "27ac1d70544614fd",
   "lastOpenFiles": [
+    "칸반/독서 칸반.md",
     "칸반/지식활동 칸반.md",
     "칸반/알고리즘 칸반.md",
-    "칸반/독서 칸반.md",
     "칸반",
     "C++/0.index.md",
     "Spring",
