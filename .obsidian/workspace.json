@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "Problems/C++/Stack/11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp.md",
+                "file": "Problems/C++/Stack/11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp.md",
+                "file": "Problems/C++/Stack/11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp.md"
+                "file": "Problems/C++/Stack/11.md"
               }
             }
           }
@@ -152,6 +152,12 @@
   },
   "active": "8d5d5a9126a2964f",
   "lastOpenFiles": [
+    "Problems/C++/Stack/2.md",
+    "Problems/C++/Stack/1.md",
+    "Problems/C++/Stack/0. index.md",
+    "React/0. index.md",
+    "Problems/C++/Stack/11.md",
+    "temp.md",
     "무제 파일.canvas",
     "수학/0.기본기.md",
     "수학/0. 수학 (Index).md",
@@ -163,7 +169,6 @@
     "Monorepo",
     "WEB",
     "Problems/C++/Array/0.index.md",
-    "temp.md",
     "Problems/C++/Array/6.md",
     "칸반/독서 칸반.md",
     "C++/0.index.md",
@@ -178,12 +183,8 @@
     "C++/0.0 Progress.md",
     "C++/4. 포인터.md",
     "C++/BASIC-1.md",
-    "칸반/지식활동 칸반.md",
-    "칸반/test.md",
     "칸반",
     "Spring",
-    "추계.md",
-    "0. 칸반보드.md",
     "images/Pasted image 20241001192235.png",
     "images",
     "images/Pasted image 20240922162907.png",
