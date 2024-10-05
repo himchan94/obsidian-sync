@@ -45,19 +45,11 @@
             "id": "27ac1d70544614fd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "C++/4. 포인터.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
+                "file": "C++/4. 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
+                "file": "C++/4. 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "칸반/알고리즘 칸반.md"
+                "file": "C++/4. 포인터.md"
               }
             }
           }
@@ -195,8 +187,9 @@
   },
   "active": "27ac1d70544614fd",
   "lastOpenFiles": [
-    "칸반/지식활동 칸반.md",
+    "C++/BASIC-1.md",
     "칸반/알고리즘 칸반.md",
+    "칸반/지식활동 칸반.md",
     "칸반/독서 칸반.md",
     "칸반/test.md",
     "칸반",
@@ -209,7 +202,6 @@
     "무제 파일.md",
     "0. 칸반보드.md",
     "C++/4. 포인터.md",
-    "C++/BASIC-1.md",
     "C++/BASIC-2.md",
     "images/Pasted image 20241001192235.png",
     "images/Pasted image 20240922165710.png",
