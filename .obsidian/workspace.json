@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/1. Discrete math.md",
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수학/1. Discrete math.md",
+                "file": "temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수학/1. Discrete math.md",
+                "file": "temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수학/1. Discrete math.md"
+                "file": "temp.md"
               }
             }
           },
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +173,9 @@
   },
   "active": "9deb0e1c0607c9b8",
   "lastOpenFiles": [
+    "템플릿/1. 기본 템플릿.md",
+    "템플릿/2. 독서.md",
+    "수학/1. Discrete math.md",
     "수학/0.기본기.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "칸반/지식활동 칸반.md",
@@ -200,10 +204,7 @@
     "WEB",
     "Problems/C++/Array/0.index.md",
     "Problems/C++/Array/6.md",
-    "C++/0.index.md",
     "images/Pasted image 20240922165710.png",
-    "Spring/무제 파일.md",
-    "Spring/무제 파일 5.md",
     "칸반",
     "Spring",
     "images/Pasted image 20241001192235.png",
