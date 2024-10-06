@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73e63ef8e722796e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -171,8 +183,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "9deb0e1c0607c9b8",
+  "active": "73e63ef8e722796e",
   "lastOpenFiles": [
+    "temp.md",
+    "무제 파일.md",
     "템플릿/1. 기본 템플릿.md",
     "템플릿/2. 독서.md",
     "수학/1. Discrete math.md",
@@ -185,7 +199,6 @@
     "Computer Science/0.  컴퓨터 과학.md",
     "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "Monorepo/0. 목차.md",
-    "temp.md",
     "칸반/알고리즘 칸반.md",
     "이름 없는 보드.md",
     "칸반/독서 칸반.md",
@@ -203,7 +216,6 @@
     "Monorepo",
     "WEB",
     "Problems/C++/Array/0.index.md",
-    "Problems/C++/Array/6.md",
     "images/Pasted image 20240922165710.png",
     "칸반",
     "Spring",
