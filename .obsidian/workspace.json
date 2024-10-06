@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e5e309968d1f8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "무제 파일 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "무제 파일 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "무제 파일 3.md"
               }
             }
           },
@@ -195,8 +207,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "fb7937bd134bbabc",
+  "active": "8e5e309968d1f8f3",
   "lastOpenFiles": [
+    "무제 파일 2.md",
+    "무제 파일 3.md",
+    "temp.md",
     "템플릿/3. BOOK.md",
     "무제 파일 1.md",
     "템플릿/2. 독서.md",
@@ -206,7 +221,6 @@
     "Pasted image 20241006164804.png",
     "Pasted image 20241006154905.png",
     "Pasted image 20241006154536.png",
-    "temp.md",
     "템플릿/1. 기본 템플릿.md",
     "수학/1. Discrete math.md",
     "수학/0.기본기.md",
@@ -229,8 +243,6 @@
     "무제 파일.canvas",
     "수학/0. 수학 (Index).md",
     "독후감",
-    "독서/0. 독서.md",
-    "More/실수는 메모리에 어떻게 저장될까?.md",
     "Monorepo",
     "WEB",
     "images/Pasted image 20240922165710.png",
