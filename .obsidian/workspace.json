@@ -11,23 +11,28 @@
             "id": "8d5d5a9126a2964f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "About Obsidian/Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9deb0e1c0607c9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수학/1. Discrete math.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
+                "file": "수학/1. Discrete math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "칸반/알고리즘 칸반.md",
+                "file": "수학/1. Discrete math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "칸반/알고리즘 칸반.md"
+                "file": "수학/1. Discrete math.md"
               }
+            }
+          },
+          {
+            "id": "8b8bbd16432739bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,18 +170,28 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "9deb0e1c0607c9b8",
   "lastOpenFiles": [
+    "수학/0.기본기.md",
+    "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
+    "칸반/지식활동 칸반.md",
+    "About Obsidian/Sync.md",
+    "About Obsidian/Setting.md",
+    "Computer Science/1. 네트워크.md",
+    "Computer Science/0.  컴퓨터 과학.md",
+    "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
+    "Monorepo/0. 목차.md",
+    "temp.md",
+    "칸반/알고리즘 칸반.md",
+    "이름 없는 보드.md",
+    "칸반/독서 칸반.md",
     "Problems/C++/Stack/11.md",
     "Problems/C++/Stack/2.md",
     "Problems/C++/Stack/1.md",
     "Problems/C++/Stack/0. index.md",
     "React/0. index.md",
-    "temp.md",
     "무제 파일.canvas",
-    "수학/0.기본기.md",
     "수학/0. 수학 (Index).md",
-    "Monorepo/0. 목차.md",
     "독후감",
     "독서/0. 독서.md",
     "More/실수는 메모리에 어떻게 저장될까?.md",
@@ -178,25 +200,15 @@
     "WEB",
     "Problems/C++/Array/0.index.md",
     "Problems/C++/Array/6.md",
-    "칸반/독서 칸반.md",
     "C++/0.index.md",
-    "이름 없는 보드.md",
     "images/Pasted image 20240922165710.png",
     "Spring/무제 파일.md",
-    "칸반/알고리즘 칸반.md",
     "Spring/무제 파일 5.md",
-    "Spring/무제 파일 1.md",
-    "Spring/무제 파일 2.md",
-    "무제 파일 3.md",
-    "C++/0.0 Progress.md",
-    "C++/4. 포인터.md",
-    "C++/BASIC-1.md",
     "칸반",
     "Spring",
     "images/Pasted image 20241001192235.png",
     "images",
     "images/Pasted image 20240922162907.png",
-    "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
     "KANBAN",
     "Problems/C++/Stack",
