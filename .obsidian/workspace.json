@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f8ab68ea52c613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 4.md",
+                "file": "무제 파일 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 4.md",
+                "file": "무제 파일 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 4.md"
+                "file": "무제 파일 5.md"
               }
             }
           },
@@ -255,10 +267,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "f7e90ae30a93e900",
+  "active": "87f8ab68ea52c613",
   "lastOpenFiles": [
-    "JAVA 오버로딩과 오버라이딩.md",
     "무제 파일 4.md",
+    "무제 파일 5.md",
+    "JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
     "Pasted image 20241012140242.png",
     "EXCUTE CONTEXT.md",
@@ -289,7 +302,6 @@
     "이름 없는 보드.md",
     "칸반/독서 칸반.md",
     "Problems/C++/Stack/11.md",
-    "Problems/C++/Stack/2.md",
     "무제 파일.canvas",
     "독후감",
     "Monorepo",
