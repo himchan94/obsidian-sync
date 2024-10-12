@@ -88,7 +88,7 @@ dynamic scope 와 static scope(lexical scope)
 <script>
 function 더하기함수공장(초기값){
 	function 덧셈(숫자){
-		return 초기값 + 1;
+		return 초기값 + 숫자;
 	}
 	return 덧셈;
 }
@@ -96,6 +96,11 @@ function 더하기함수공장(초기값){
 let 더하기1 = 더하기함수공장(1);
 console.log(더하기1(1));
 console.log(더하기1(2));
+
+
+let 더하기2 = 더하기함수공장(2);
+console.log(더하기2(1));
+console.log(더하기2(2));
 
 
 
