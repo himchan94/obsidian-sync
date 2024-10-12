@@ -4,131 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac58cfa1546e4191",
+        "id": "9d8aad92c978fb32",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5d5a9126a2964f",
+            "id": "3cf6b133fafaaf40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Obsidian/Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9deb0e1c0607c9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73e63ef8e722796e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "템플릿/3. BOOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7937bd134bbabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5e309968d1f8f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6ef9b74029cc00e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXCUTE CONTEXT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "072955a7152a4eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCOPE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f02392e53a56c115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA 오버로딩과 오버라이딩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e90ae30a93e900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f8ab68ea52c613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -267,18 +150,19 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "87f8ab68ea52c613",
+  "active": "3cf6b133fafaaf40",
   "lastOpenFiles": [
-    "무제 파일 4.md",
-    "무제 파일 5.md",
+    "EXCUTE CONTEXT.md",
     "JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
-    "Pasted image 20241012140242.png",
-    "EXCUTE CONTEXT.md",
     "무제 파일 3.md",
-    "무제 파일 2.md",
     "temp.md",
+    "About Obsidian/Setting.md",
     "템플릿/3. BOOK.md",
+    "무제 파일 4.md",
+    "무제 파일 5.md",
+    "Pasted image 20241012140242.png",
+    "무제 파일 2.md",
     "무제 파일 1.md",
     "템플릿/2. 독서.md",
     "무제 파일.md",
@@ -293,7 +177,6 @@
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "칸반/지식활동 칸반.md",
     "About Obsidian/Sync.md",
-    "About Obsidian/Setting.md",
     "Computer Science/1. 네트워크.md",
     "Computer Science/0.  컴퓨터 과학.md",
     "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
