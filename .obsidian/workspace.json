@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 4.md",
+                "file": "EXCUTE CONTEXT.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 4.md",
+                "file": "EXCUTE CONTEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 4.md",
+                "file": "EXCUTE CONTEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 4.md"
+                "file": "EXCUTE CONTEXT.md"
               }
             }
           },
@@ -222,7 +222,7 @@
   "active": "d6ef9b74029cc00e",
   "lastOpenFiles": [
     "무제 파일 3.md",
-    "무제 파일 4.md",
+    "EXCUTE CONTEXT.md",
     "무제 파일 2.md",
     "temp.md",
     "템플릿/3. BOOK.md",
