@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/1. 타입스크립트 기본기.md",
+                "file": "TS/0.목차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e001070f989dcf83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Union and Intersection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/1. 타입스크립트 기본기.md",
+                "file": "2. Union and Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/1. 타입스크립트 기본기.md",
+                "file": "2. Union and Intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/1. 타입스크립트 기본기.md"
+                "file": "2. Union and Intersection.md"
               }
             }
           },
@@ -171,12 +183,13 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "3bbd371bc309a2b5",
+  "active": "e001070f989dcf83",
   "lastOpenFiles": [
+    "TS/0.목차.md",
+    "2. Union and Intersection.md",
+    "TS/1.  Typescript basic.md",
     "Pasted image 20241014223806.png",
     "Pasted image 20241014004404.png",
-    "TS/0.목차.md",
-    "TS/1. 타입스크립트 기본기.md",
     "Pasted image 20241014004247.png",
     "Pasted image 20241014004238.png",
     "Problems/C++/Array/1.md",
@@ -208,7 +221,6 @@
     "About Obsidian/Sync.md",
     "Computer Science/1. 네트워크.md",
     "Computer Science/0.  컴퓨터 과학.md",
-    "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "Monorepo/0. 목차.md",
     "무제 파일.canvas",
     "독후감",
