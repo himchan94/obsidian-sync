@@ -11,8 +11,12 @@
             "id": "714f138d65c386cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TS/2. Union and Intersection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "TS/2. Union and Intersection.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "TS/2. Union and Intersection.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "TS/2. Union and Intersection.md"
+          }
         }
       }
     ],
@@ -128,14 +136,15 @@
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "TS/1.  Typescript basic.md",
+    "무제 파일 1.md",
+    "TS/2. Union and Intersection.md",
     "TS",
     "Pasted image 20241014004404.png",
-    "TS/1.  Typescript basic.md",
     "무제 파일 4.md",
     "Pasted image 20241014004238.png",
     "TS/0.목차.md",
     "JAVA 오버로딩과 오버라이딩.md",
-    "TS/2. Union and Intersection.md",
     "Pasted image 20241012140242.png",
     "EXCUTE CONTEXT.md",
     "Pasted image 20241014004247.png",
@@ -173,7 +182,6 @@
     "무제 파일.canvas",
     "C++/0.index.md",
     "수학",
-    "템플릿",
-    "컴퓨터 과학"
+    "템플릿"
   ]
 }
