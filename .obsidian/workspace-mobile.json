@@ -11,14 +11,8 @@
             "id": "714f138d65c386cd",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "0. 칸반보드 목록.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0. 칸반보드 목록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0. 칸반보드 목록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "0. 칸반보드 목록.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -136,15 +126,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "714f138d65c386cd",
+  "active": "4551d8dbb81703bb",
   "lastOpenFiles": [
+    "TS",
+    "Pasted image 20241014004404.png",
+    "TS/1.  Typescript basic.md",
+    "무제 파일 4.md",
+    "Pasted image 20241014004238.png",
+    "TS/0.목차.md",
+    "JAVA 오버로딩과 오버라이딩.md",
+    "TS/2. Union and Intersection.md",
+    "Pasted image 20241012140242.png",
+    "EXCUTE CONTEXT.md",
+    "Pasted image 20241014004247.png",
+    "Pasted image 20241014230603.png",
+    "Pasted image 20241014223806.png",
+    "SCOPE.md",
     "무제 파일 5.md",
     "0. 칸반보드 목록.md",
     "images/Pasted image 20241001192235.png",
     "images/Pasted image 20240922162907.png",
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
     "images/Pasted image 20240922165710.png",
-    "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "images",
     "C++/BASIC.md",
     "2024-08-13.md",
@@ -160,26 +163,15 @@
     "C++/0.0 Progress.md",
     "About Obsidian/Sync.md",
     "More",
-    "Assets/namespace.png",
     "Assets",
     "Assets/cpp_progress.csv",
-    "Assets/메모리와변수.png",
     "C++",
     "무제 파일.md",
-    "Assets/메모리.png",
     "More/실수는 메모리에 어떻게 저장될까?.md",
     "C++/2. 변수.md",
     "cpp_progress.csv",
     "무제 파일.canvas",
     "C++/0.index.md",
-    "About Obsidian/Drawing 2024-07-16 12.51.42.excalidraw.md",
-    "About Obsidian/Setting.md",
-    "기본기/linux 명령어.md",
-    "독서/1. 불온한 것들의 미학.md",
-    "기본기/1. linux 명령어.md",
-    "test.md",
-    "수학/1. Discrete math.md",
-    "수학/0.기본기.md",
     "수학",
     "템플릿",
     "컴퓨터 과학"
