@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9d8aad92c978fb32",
+        "id": "00a3a95f9f2921ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf6b133fafaaf40",
+            "id": "9dbae1eecece36ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/0.목차.md",
+                "file": "TS/3. Function.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3bbd371bc309a2b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/0.목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e001070f989dcf83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/2. Union and Intersection.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3. Function"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -79,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -87,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/2. Union and Intersection.md",
+                "file": "TS/3. Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "3. Function의 백링크"
             }
           },
           {
@@ -127,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/2. Union and Intersection.md",
+                "file": "TS/3. Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "3. Function의 나가는 링크"
             }
           },
           {
@@ -141,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/2. Union and Intersection.md"
-              }
+                "file": "TS/3. Function.md"
+              },
+              "icon": "lucide-list",
+              "title": "3. Function 개요"
             }
           },
           {
@@ -159,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -183,11 +176,12 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "e001070f989dcf83",
+  "active": "9dbae1eecece36ad",
   "lastOpenFiles": [
-    "Pasted image 20241014230603.png",
     "TS/0.목차.md",
+    "TS/3. Function.md",
     "TS/2. Union and Intersection.md",
+    "Pasted image 20241014230603.png",
     "TS/1.  Typescript basic.md",
     "Pasted image 20241014223806.png",
     "Pasted image 20241014004404.png",
@@ -213,7 +207,6 @@
     "Pasted image 20241006165145.png",
     "Pasted image 20241006164804.png",
     "Pasted image 20241006154905.png",
-    "Pasted image 20241006154536.png",
     "템플릿/1. 기본 템플릿.md",
     "수학/1. Discrete math.md",
     "수학/0.기본기.md",
