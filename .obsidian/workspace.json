@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/3. Function.md",
+                "file": "TS/0.목차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Function"
+              "title": "0.목차"
+            }
+          },
+          {
+            "id": "bef1bedf96825269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/4. Type and Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Type and Interface"
+            }
+          },
+          {
+            "id": "1465de5622c7bc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/5. Any  Unknown   Never.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Any  Unknown   Never"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/3. Function.md",
+                "file": "TS/4. Type and Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3. Function의 백링크"
+              "title": "4. Type and Interface의 백링크"
             }
           },
           {
@@ -112,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/3. Function.md",
+                "file": "TS/4. Type and Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3. Function의 나가는 링크"
+              "title": "4. Type and Interface의 나가는 링크"
             }
           },
           {
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/3. Function.md"
+                "file": "TS/4. Type and Interface.md"
               },
               "icon": "lucide-list",
-              "title": "3. Function 개요"
+              "title": "4. Type and Interface 개요"
             }
           },
           {
@@ -176,12 +205,17 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "9dbae1eecece36ad",
+  "active": "bef1bedf96825269",
   "lastOpenFiles": [
+    "TS/0.목차.md",
+    "TS/4. Type and Interface.md",
+    "TS/5. Any  Unknown   Never.md",
+    "4. Any / Unknown / Never.md",
+    "4. Any / Unknown ",
+    "4. Any ",
+    "TS/3. Function.md",
     "Pasted image 20241019223040.png",
     "TS/2. Union and Intersection.md",
-    "TS/3. Function.md",
-    "TS/0.목차.md",
     "Pasted image 20241014230603.png",
     "TS/1.  Typescript basic.md",
     "Pasted image 20241014223806.png",
@@ -207,14 +241,11 @@
     "Pasted image 20241006165749.png",
     "Pasted image 20241006165145.png",
     "Pasted image 20241006164804.png",
-    "Pasted image 20241006154905.png",
     "템플릿/1. 기본 템플릿.md",
     "수학/1. Discrete math.md",
     "수학/0.기본기.md",
     "자료구조와 알고리즘(C++)/0. 자료구조와 알고리즘 (index).md",
     "칸반/지식활동 칸반.md",
-    "About Obsidian/Sync.md",
-    "Computer Science/1. 네트워크.md",
     "무제 파일.canvas",
     "독후감",
     "Monorepo",
@@ -223,8 +254,6 @@
     "Spring",
     "images",
     "KANBAN",
-    "Problems/C++/Stack",
-    "Problems/C++/Array",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
