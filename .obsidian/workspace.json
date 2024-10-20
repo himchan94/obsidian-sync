@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/4. Type and Interface.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Type and Interface"
+              "title": "5. Any  Unknown  Never"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/5. Any  Unknown   Never.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Any  Unknown   Never"
+              "title": "5. Any  Unknown  Never"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/4. Type and Interface.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4. Type and Interface의 백링크"
+              "title": "5. Any  Unknown  Never의 백링크"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/4. Type and Interface.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "4. Type and Interface의 나가는 링크"
+              "title": "5. Any  Unknown  Never의 나가는 링크"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/4. Type and Interface.md"
+                "file": "TS/5. Any  Unknown  Never.md"
               },
               "icon": "lucide-list",
-              "title": "4. Type and Interface 개요"
+              "title": "5. Any  Unknown  Never 개요"
             }
           },
           {
@@ -207,11 +207,11 @@
   },
   "active": "bef1bedf96825269",
   "lastOpenFiles": [
+    "TS/4. Type and Interface.md",
     "Pasted image 20241020111023.png",
     "TS/3. Function.md",
-    "TS/4. Type and Interface.md",
     "TS/0.목차.md",
-    "TS/5. Any  Unknown   Never.md",
+    "TS/5. Any  Unknown  Never.md",
     "4. Any / Unknown / Never.md",
     "4. Any / Unknown ",
     "4. Any ",
@@ -241,7 +241,6 @@
     "무제 파일.md",
     "Pasted image 20241006165749.png",
     "Pasted image 20241006165145.png",
-    "Pasted image 20241006164804.png",
     "템플릿/1. 기본 템플릿.md",
     "수학/1. Discrete math.md",
     "수학/0.기본기.md",
