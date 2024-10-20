@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9dbae1eecece36ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/0.목차.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.목차"
-            }
-          },
-          {
-            "id": "bef1bedf96825269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/0.목차.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.목차"
-            }
-          },
-          {
-            "id": "6a3822c5e9af1d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/0.목차.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.목차"
-            }
-          },
-          {
-            "id": "37f4d98db5c9ea8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/7. Tuple.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Tuple"
-            }
-          },
-          {
             "id": "1465de5622c7bc7a",
             "type": "leaf",
             "state": {
@@ -77,8 +21,7 @@
               "title": "5. Any  Unknown  Never"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/7. Tuple.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "7. Tuple의 백링크"
+              "title": "5. Any  Unknown  Never의 백링크"
             }
           },
           {
@@ -169,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/7. Tuple.md",
+                "file": "TS/5. Any  Unknown  Never.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "7. Tuple의 나가는 링크"
+              "title": "5. Any  Unknown  Never의 나가는 링크"
             }
           },
           {
@@ -196,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/7. Tuple.md"
+                "file": "TS/5. Any  Unknown  Never.md"
               },
               "icon": "lucide-list",
-              "title": "7. Tuple 개요"
+              "title": "5. Any  Unknown  Never 개요"
             }
           },
           {
@@ -233,41 +176,40 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "37f4d98db5c9ea8c",
+  "active": "aae7cdb785296965",
   "lastOpenFiles": [
-    "Pasted image 20241020135947.png",
     "TS/0.목차.md",
+    "SCOPE.md",
+    "Monorepo/Pasted image 20241006154536.png",
+    "Monorepo/Pasted image 20241006154905.png",
+    "temp.md",
     "TS/7. Tuple.md",
+    "Monorepo/Pasted image 20241020135947.png",
     "TS/6. Array.md",
     "TS/5. Any  Unknown  Never.md",
-    "Pasted image 20241020115822.png",
-    "Pasted image 20241020115804.png",
+    "Monorepo/Pasted image 20241020115822.png",
+    "Monorepo/Pasted image 20241020115804.png",
     "TS/4. Type and Interface.md",
-    "Pasted image 20241020111023.png",
+    "Monorepo/Pasted image 20241020111023.png",
     "TS/3. Function.md",
     "4. Any / Unknown / Never.md",
     "4. Any / Unknown ",
     "4. Any ",
-    "Pasted image 20241019223040.png",
+    "Monorepo/Pasted image 20241019223040.png",
     "TS/2. Union and Intersection.md",
-    "Pasted image 20241014230603.png",
+    "Monorepo/Pasted image 20241014230603.png",
     "TS/1.  Typescript basic.md",
-    "Pasted image 20241014223806.png",
-    "Pasted image 20241014004404.png",
-    "Pasted image 20241014004247.png",
-    "Pasted image 20241014004238.png",
+    "Monorepo/Pasted image 20241014223806.png",
+    "Monorepo/Pasted image 20241014004404.png",
     "Problems/C++/Array/1.md",
     "무제 파일 3.md",
     "TS",
     "무제 파일 4.md",
     "EXCUTE CONTEXT.md",
     "JAVA 오버로딩과 오버라이딩.md",
-    "SCOPE.md",
-    "temp.md",
     "About Obsidian/Setting.md",
     "템플릿/3. BOOK.md",
     "무제 파일 5.md",
-    "Pasted image 20241012140242.png",
     "무제 파일 2.md",
     "무제 파일 1.md",
     "템플릿/2. 독서.md",
