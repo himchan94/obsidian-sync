@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/5. Any  Unknown  Never.md",
+                "file": "Computer Science/0.  컴퓨터 과학.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Any  Unknown  Never"
+              "title": "0.  컴퓨터 과학"
+            }
+          },
+          {
+            "id": "ac64ec792a64d4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1. 네트워크.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 네트워크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,23 +191,31 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "ac64ec792a64d4e3",
   "lastOpenFiles": [
-    "TS/0.목차.md",
+    "Value Type vs Reference Type.md",
+    "Computer Science/0.  컴퓨터 과학.md",
+    "Computer Science/1. 네트워크.md",
+    "temp.md",
     "SCOPE.md",
+    "JAVA 오버로딩과 오버라이딩.md",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "TS/5. Any  Unknown  Never.md",
+    "4. Any / Unknown / Never.md",
+    "TS/0.목차.md",
     "Monorepo/Pasted image 20241006154536.png",
     "Monorepo/Pasted image 20241006154905.png",
-    "temp.md",
     "TS/7. Tuple.md",
     "Monorepo/Pasted image 20241020135947.png",
     "TS/6. Array.md",
-    "TS/5. Any  Unknown  Never.md",
     "Monorepo/Pasted image 20241020115822.png",
     "Monorepo/Pasted image 20241020115804.png",
     "TS/4. Type and Interface.md",
     "Monorepo/Pasted image 20241020111023.png",
     "TS/3. Function.md",
-    "4. Any / Unknown / Never.md",
     "4. Any / Unknown ",
     "4. Any ",
     "Monorepo/Pasted image 20241019223040.png",
@@ -202,20 +225,13 @@
     "Monorepo/Pasted image 20241014223806.png",
     "Monorepo/Pasted image 20241014004404.png",
     "Problems/C++/Array/1.md",
-    "무제 파일 3.md",
     "TS",
     "무제 파일 4.md",
     "EXCUTE CONTEXT.md",
-    "JAVA 오버로딩과 오버라이딩.md",
     "About Obsidian/Setting.md",
     "템플릿/3. BOOK.md",
     "무제 파일 5.md",
-    "무제 파일 2.md",
-    "무제 파일 1.md",
     "템플릿/2. 독서.md",
-    "무제 파일.md",
-    "템플릿/1. 기본 템플릿.md",
-    "수학/1. Discrete math.md",
     "무제 파일.canvas",
     "독후감",
     "Monorepo",
