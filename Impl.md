@@ -22,3 +22,17 @@ function mountState<S>(
 
 
 ```
+
+
+```ts
+
+count [state, setState] = useState(0);
+baseState = 1; // 0 -> 1
+
+setState(state + 1); // baseState를 0 -> 1로 바꾼다.
+setState(state + 1); // baseState를 0 -> 1로 바꾼다.
+
+setState(prev => prev + 1); // prev는 baseState를 나타낸다.
+
+
+```
