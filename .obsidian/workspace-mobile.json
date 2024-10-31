@@ -11,12 +11,14 @@
             "id": "714f138d65c386cd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240922162907.png"
+                "file": "React/3. React Underhood.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240922162907"
+              "icon": "lucide-file",
+              "title": "3. React Underhood"
             }
           }
         ]
@@ -150,6 +152,7 @@
   },
   "active": "714f138d65c386cd",
   "lastOpenFiles": [
+    "images/Pasted image 20240922162907.png",
     "images/Pasted image 20240922165710.png",
     "images/Pasted image 20241001192235.png",
     "Computer Science/1. 네트워크.md",
@@ -166,7 +169,6 @@
     "Monorepo/Pasted image 20241014004404.png",
     "TS/7. Tuple.md",
     "Monorepo/Pasted image 20241006164804.png",
-    "Monorepo/Pasted image 20241019223040.png",
     "Computer Science/2. Value Type vs Reference Type.md",
     "TS/5. Any  Unknown  Never.md",
     "TS/6. Array.md",
