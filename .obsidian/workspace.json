@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b997a224478b7621",
+        "id": "c1fcfe09a1a2b20d",
         "type": "tabs",
         "children": [
           {
-            "id": "26ab2fa82d1430c9",
+            "id": "bb39cce0b71a575e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/1. CORS - 수정중.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. CORS - 수정중"
+              "title": "새 탭"
             }
           }
         ]
@@ -176,17 +172,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26ab2fa82d1430c9",
+  "active": "bb39cce0b71a575e",
   "lastOpenFiles": [
+    "Network/1. CORS - 수정중.md",
+    "무제 파일.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "images/Drawing 2024-10-27 15.16.17.excalidraw.svg",
+    "images/Drawing 2024-10-27 15.16.17.excalidraw 1.svg",
+    "images/Drawing 2024-10-27 11.41.40.excalidraw.svg",
+    "images/Drawing 2024-10-27 11.41.40.excalidraw 1.svg",
+    "image.png",
+    "fonts/NanumPenScript-Regular.ttf",
+    "무제 파일 2.md",
     "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.md",
     "1. CORS - 수정중2.md",
     "Network/0. index.md",
-    "Network/1. CORS - 수정중.md",
-    "images/Drawing 2024-10-27 11.41.40.excalidraw 1.svg",
-    "images/Drawing 2024-10-27 11.41.40.excalidraw.svg",
     "Pasted image 20241031000337.png",
     "Pasted image 20241031000028.png",
-    "image.png",
     "Pasted image 20241030233345.png",
     "Network",
     "Excalidraw/Drawing 2024-10-27 15.16.17.excalidraw.md",
@@ -195,16 +198,10 @@
     "React/3. React Underhood.md",
     "JS/index.md",
     "JS/1. var, let, const.md",
-    "images/Drawing 2024-10-27 15.16.17.excalidraw 1.svg",
-    "images/Drawing 2024-10-27 15.16.17.excalidraw.svg",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "JS",
     "2024-10-27.md",
     "Excalidraw/Drawing 2024-10-27 11.36.04.excalidraw.md",
     "fonts/NanumBrushScript-Regular.ttf",
-    "fonts/NanumPenScript-Regular.ttf",
     "fonts",
     "Excalidraw/Drawing 2024-10-27 11.28.28.excalidraw.md",
     "Excalidraw/Drawing 2024-10-27 11.27.17.excalidraw.md",
@@ -214,7 +211,6 @@
     "Excalidraw",
     "React/Untitled Diagram.svg",
     "Untitled Diagram.svg",
-    "무제 파일 2.md",
     "이름 없는 보드.md",
     "React/4. React Document Deep Dive.md",
     "React/1. Design pattern.md",
@@ -222,7 +218,6 @@
     "Impl.md",
     "Computer Science/0.  컴퓨터 과학.md",
     "Computer Science/1. 네트워크.md",
-    "JAVA 오버로딩과 오버라이딩.md",
     "4. Any / Unknown ",
     "4. Any ",
     "TS",
