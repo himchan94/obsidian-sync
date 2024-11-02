@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1. 네트워크.md",
+                "file": "Network/1. CORS - 수정중.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 네트워크"
+              "title": "1. CORS - 수정중"
             }
           }
         ],
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:새 보드 만들기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -167,6 +168,7 @@
   },
   "active": "abb1a61a1a565648",
   "lastOpenFiles": [
+    "Computer Science/1. 네트워크.md",
     "images/Pasted image 20241031000337.png",
     "JS",
     "2024-10-27.md",
@@ -191,8 +193,6 @@
     "React/3. React Underhood.md",
     "images/Pasted image 20240922162907.png",
     "images/Pasted image 20240922165710.png",
-    "images/Pasted image 20241001192235.png",
-    "Computer Science/1. 네트워크.md",
     "EXCUTE CONTEXT.md",
     "TS/2. Union and Intersection.md",
     "Impl.md",
