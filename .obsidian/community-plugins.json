@@ -1,7 +1,8 @@
 [
-  "obsidian-git",
   "oz-image-plugin",
   "table-editor-obsidian",
   "obsidian-csv-table",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
