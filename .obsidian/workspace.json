@@ -11,15 +11,56 @@
             "id": "aeaf15500e8385ac",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/0. index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. index"
+            }
+          },
+          {
+            "id": "698d7a4ccc8b6c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/2. 직렬화와 역직렬화.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 직렬화와 역직렬화"
+            }
+          },
+          {
+            "id": "9b9a415b204019e8",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.md"
+                "file": "ExcalidrawResult/serialization.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-27 11.41.40.excalidraw"
+              "title": "serialization"
+            }
+          },
+          {
+            "id": "800288133d892773",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ExcalidrawResult/serialization.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "serialization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,12 +216,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aeaf15500e8385ac",
+  "active": "698d7a4ccc8b6c21",
   "lastOpenFiles": [
+    "ExcalidrawResult/serialization.md",
     "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.svg",
+    "ExcalidrawResult",
+    "Network/2. 직렬화와 역직렬화.md",
+    "Network/0. index.md",
+    "Network/1. CORS - 수정중.md",
+    "Computer Science/0.  컴퓨터 과학.md",
+    "Computer Science/1. 네트워크.md",
+    "Computer Science/2. Value Type vs Reference Type.md",
     "CSS/1. 옆에서 bar 튀어나오는 효과.md",
     "images/Drawing 2024-10-27 11.41.40.excalidraw 2.svg",
-    "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.md",
     "images/Pasted image 20241031000337.png",
     "images/Pasted image 20241031000028.png",
     "images/Pasted image 20241001192235.png",
@@ -189,13 +237,10 @@
     "images/JPEG 이미지-45C8-8820-8F-0.jpeg",
     "images/JPEG 이미지-4D55-A9AE-6F-0.jpeg",
     "images/image.png",
-    "images/Drawing 2024-10-27 15.16.17.excalidraw 1.svg",
     "CSS/0. index.md",
     "CSS",
     "JAVA 오버로딩과 오버라이딩.md",
     "무제 파일 1.md",
-    "Network/0. index.md",
-    "Network/1. CORS - 수정중.md",
     "1. CORS - 수정중2.md",
     "Impl.md",
     "EXCUTE CONTEXT.md",
@@ -212,20 +257,15 @@
     "Excalidraw/Drawing 2024-10-27 15.16.17.excalidraw.md",
     "fonts/NanumPenScript-Regular.ttf",
     "Network",
-    "Computer Science/2. Value Type vs Reference Type.md",
     "React/0. index.md",
     "React/3. React Underhood.md",
     "JS/index.md",
-    "JS/1. var, let, const.md",
     "JS",
-    "Excalidraw/Drawing 2024-10-27 11.36.04.excalidraw.md",
     "fonts/NanumBrushScript-Regular.ttf",
     "fonts",
-    "Excalidraw/Drawing 2024-10-27 11.28.28.excalidraw.md",
     "Excalidraw",
     "4. Any / Unknown ",
     "4. Any ",
-    "TS",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "Untitled.canvas",
