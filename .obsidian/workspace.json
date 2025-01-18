@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/0. 목차.md",
+                "file": "DB/practice_with_MySQLWorkbench/0. 목차.md",
                 "mode": "source",
                 "source": false
               },
@@ -221,8 +221,11 @@
   },
   "active": "d690626e73ebecf3",
   "lastOpenFiles": [
-    "5. 테이블 생성.md",
     "DB/0. 목차.md",
+    "DB/practice_with_MySQLWorkbench/0. 목차.md",
+    "DB/practice_with_MySQLWorkbench",
+    "무제 폴더",
+    "5. 테이블 생성.md",
     "4. 관계 대수.md",
     "DB/3. 무결성 제약조건.md",
     "DB/2. 관계 데이터 모델.md",
@@ -262,14 +265,11 @@
     "무제 파일 1.canvas",
     "무제 파일 3.md",
     "무제 파일 4.md",
-    "About Obsidian/Setting.md",
     "fonts/NanumPenScript-Regular.ttf",
     "Network",
     "JS",
     "fonts/NanumBrushScript-Regular.ttf",
     "fonts",
-    "Excalidraw",
-    "4. Any / Unknown ",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "Untitled.canvas",
