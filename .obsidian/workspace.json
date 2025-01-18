@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 테이블 생성.md",
+                "file": "DB/0. 목차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 테이블 생성"
+              "title": "0. 목차"
             }
           }
         ],
@@ -221,8 +221,8 @@
   },
   "active": "d690626e73ebecf3",
   "lastOpenFiles": [
-    "DB/0. 목차.md",
     "5. 테이블 생성.md",
+    "DB/0. 목차.md",
     "4. 관계 대수.md",
     "DB/3. 무결성 제약조건.md",
     "DB/2. 관계 데이터 모델.md",
