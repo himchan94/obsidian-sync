@@ -1,6 +1,5 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true,
-  "showRibbon": true
+  "showUnsupportedFiles": true
 }
