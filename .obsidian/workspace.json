@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "5a1877215eeb58a7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "8a4260d137688d06",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "1. 변수와 자료형"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21ec5dcdb300e931",
+  "active": "5a1877215eeb58a7",
   "lastOpenFiles": [
     "1. 변수와 자료형.md",
     "JAVA/0. 목차.md",
