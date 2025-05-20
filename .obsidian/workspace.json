@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Typescript"
             }
+          },
+          {
+            "id": "084213a98bea63ba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9c8f19528c89222",
+  "active": "084213a98bea63ba",
   "lastOpenFiles": [
     "Typescript.md",
     "JAVA/0. 목차.md",
