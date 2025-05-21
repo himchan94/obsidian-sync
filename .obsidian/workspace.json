@@ -87,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "084213a98bea63ba",
+  "active": "aae7cdb785296965",
   "lastOpenFiles": [
     "Typescript.md",
     "JAVA/0. 목차.md",
