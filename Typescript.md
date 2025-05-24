@@ -105,7 +105,6 @@ type tests = [
 
 Expect<Equal<InferPropsFromServerSideFunction<typeof getServerSideProps>,
 { json: { title: string }}>>
-
 ];
 
 
