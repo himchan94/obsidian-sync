@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Typescript"
             }
+          },
+          {
+            "id": "b2ca57a5d0719fc3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-24 19.59.45.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "b2ca57a5d0719fc3",
   "lastOpenFiles": [
     "Typescript.md",
+    "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
     "JAVA/0. 목차.md",
     "1. 변수와 자료형.md",
     "DB/0. 목차.md",
@@ -213,7 +227,6 @@
     "DB/practice_with_MySQLWorkbench",
     "5. 테이블 생성.md",
     "4. 관계 대수.md",
-    "DB/3. 무결성 제약조건.md",
     "Pasted image 20241226005610.png",
     "DB",
     "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.svg",
