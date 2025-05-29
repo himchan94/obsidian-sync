@@ -25,16 +25,32 @@
             "id": "b2ca57a5d0719fc3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md"
+                "file": "Vue/0. index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-24 19.59.45.excalidraw"
+              "icon": "lucide-file",
+              "title": "0. index"
+            }
+          },
+          {
+            "id": "83bd7d76ac243c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/1. Vue Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Vue Intro"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,11 +206,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2ca57a5d0719fc3",
+  "active": "aae7cdb785296965",
   "lastOpenFiles": [
+    "Vue/1. Vue Intro.md",
+    "Vue/0. index.md",
+    "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
+    "Vue",
     "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.png",
     "Typescript.md",
-    "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
     "JAVA/0. 목차.md",
     "1. 변수와 자료형.md",
     "DB/0. 목차.md",
@@ -226,7 +245,6 @@
     "Pasted image 20250119023040.png",
     "Pasted image 20250119023035.png",
     "DB/practice_with_MySQLWorkbench",
-    "5. 테이블 생성.md",
     "Pasted image 20241226005610.png",
     "DB",
     "Excalidraw/Drawing 2024-10-27 11.41.40.excalidraw.svg",
@@ -234,13 +252,11 @@
     "images/Drawing 2024-10-27 11.41.40.excalidraw 2.svg",
     "images/Pasted image 20241031000337.png",
     "images/Pasted image 20241031000028.png",
-    "images/Pasted image 20241001192235.png",
     "CSS",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "fonts/NanumPenScript-Regular.ttf",
-    "Network",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "Untitled.canvas",
