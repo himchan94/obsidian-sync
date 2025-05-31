@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -190,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +208,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "83bd7d76ac243c53",
   "lastOpenFiles": [
     "Vue/1. Vue Intro.md",
     "Vue/0. index.md",
