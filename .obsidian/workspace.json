@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d6f9ac9579b99aa",
+  "active": "83bd7d76ac243c53",
   "lastOpenFiles": [
-    "Vue/1. Vue Intro.md",
+    "Pasted image 20250601233940.png",
     "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
+    "Vue/1. Vue Intro.md",
     "Vue/0. index.md",
     "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
     "Vue",
@@ -254,7 +255,6 @@
     "sqlDB.sql",
     "Pasted image 20250119225235.png",
     "Pasted image 20250119225232.png",
-    "DB/practice_with_MySQLWorkbench/4. 데이터 베이스 모델링.md",
     "Pasted image 20250119023040.png",
     "Pasted image 20250119023035.png",
     "DB/practice_with_MySQLWorkbench",
