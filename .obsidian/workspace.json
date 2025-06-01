@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "1. Vue Intro"
             }
+          },
+          {
+            "id": "3d6f9ac9579b99aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-01 22.57.29.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -208,9 +219,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83bd7d76ac243c53",
+  "active": "3d6f9ac9579b99aa",
   "lastOpenFiles": [
     "Vue/1. Vue Intro.md",
+    "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
     "Vue/0. index.md",
     "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
     "Vue",
@@ -243,7 +255,6 @@
     "Pasted image 20250119225235.png",
     "Pasted image 20250119225232.png",
     "DB/practice_with_MySQLWorkbench/4. 데이터 베이스 모델링.md",
-    "DB/1. 데이터 모델.md",
     "Pasted image 20250119023040.png",
     "Pasted image 20250119023035.png",
     "DB/practice_with_MySQLWorkbench",
