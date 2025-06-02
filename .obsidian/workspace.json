@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/1. Vue Intro.md",
+                "file": "기본기/기본기 (Index).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Vue Intro"
+              "title": "기본기 (Index)"
+            }
+          },
+          {
+            "id": "27482fd5d8686f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기본기/2. Learning New Things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Learning New Things"
             }
           },
           {
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,11 +233,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83bd7d76ac243c53",
+  "active": "27482fd5d8686f98",
   "lastOpenFiles": [
+    "기본기/2. Learning New Things.md",
+    "기본기/기본기 (Index).md",
+    "기본기/linux 명령어.md",
+    "기본기/1. linux 명령어.md",
+    "Vue/1. Vue Intro.md",
     "Pasted image 20250601233940.png",
     "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
-    "Vue/1. Vue Intro.md",
     "Vue/0. index.md",
     "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
     "Vue",
@@ -249,9 +267,6 @@
     "TS/7. Tuple.md",
     "Refactor My Life",
     "TS/6. Array.md",
-    "TS/5. Any  Unknown  Never.md",
-    "TS/4. Type and Interface.md",
-    "DB/practice_with_MySQLWorkbench/6. SQL 기본.md",
     "sqlDB.sql",
     "Pasted image 20250119225235.png",
     "Pasted image 20250119225232.png",
@@ -264,7 +279,6 @@
     "ExcalidrawResult",
     "images/Drawing 2024-10-27 11.41.40.excalidraw 2.svg",
     "images/Pasted image 20241031000337.png",
-    "images/Pasted image 20241031000028.png",
     "CSS",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
