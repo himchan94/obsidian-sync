@@ -116,18 +116,6 @@
               "icon": "lucide-file",
               "title": "2. Learning New Things"
             }
-          },
-          {
-            "id": "3d6f9ac9579b99aa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-01 22.57.29.excalidraw"
-            }
           }
         ],
         "currentTab": 3
@@ -289,18 +277,19 @@
   },
   "active": "e1f123de895817bc",
   "lastOpenFiles": [
+    "2. Vue doc - basic.md",
+    "기본기/기본기 (Index).md",
+    "기본기/2. Learning New Things.md",
+    "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
     "4. Vue3 Reactivity.md",
+    "Pasted image 20250604181036.png",
     "Excalidraw/Drawing 2025-06-04 18.06.04.excalidraw.md",
     "Vue/0. index.md",
-    "2. Vue doc - basic.md",
     "무제.md",
     "Pasted image 20250604141017.png",
     "Pasted image 20250604140612.png",
     "Pasted image 20250604134839.png",
     "Vue/1. Vue Intro.md",
-    "기본기/기본기 (Index).md",
-    "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
-    "기본기/2. Learning New Things.md",
     "기본기/linux 명령어.md",
     "기본기/1. linux 명령어.md",
     "Pasted image 20250601233940.png",
@@ -322,7 +311,6 @@
     "무제 파일.md",
     "무제 파일 2.md",
     "무제 파일 1.md",
-    "Refactor My Life/0.md",
     "Refactor My Life",
     "sqlDB.sql",
     "Pasted image 20250119225235.png",
@@ -330,7 +318,6 @@
     "Pasted image 20250119023040.png",
     "Pasted image 20250119023035.png",
     "DB/practice_with_MySQLWorkbench",
-    "Pasted image 20241226005610.png",
     "DB",
     "ExcalidrawResult",
     "CSS",
