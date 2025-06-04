@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "e1f123de895817bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-04 18.06.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-04 18.06.04.excalidraw"
+            }
+          },
+          {
             "id": "7a393ea02b204e84",
             "type": "leaf",
             "state": {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,9 +287,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51b8924004f79af4",
+  "active": "e1f123de895817bc",
   "lastOpenFiles": [
     "4. Vue3 Reactivity.md",
+    "Excalidraw/Drawing 2025-06-04 18.06.04.excalidraw.md",
     "Vue/0. index.md",
     "2. Vue doc - basic.md",
     "무제.md",
@@ -310,7 +323,6 @@
     "무제 파일 2.md",
     "무제 파일 1.md",
     "Refactor My Life/0.md",
-    "2024-10-27.md",
     "Refactor My Life",
     "sqlDB.sql",
     "Pasted image 20250119225235.png",
