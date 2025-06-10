@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/4. Vue3 Reactivity.md",
+                "file": "Vue/2. Vue doc - basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Vue3 Reactivity"
+              "title": "2. Vue doc - basic"
             }
           },
           {
@@ -223,11 +223,11 @@
   },
   "active": "fb67d27be2de4f83",
   "lastOpenFiles": [
+    "Vue/4. Vue3 Reactivity.md",
     "Vue/2. Vue doc - basic.md",
     "Vue/0. index.md",
     "1. 변수와 자료형.md",
     "Vue/1. Vue Intro.md",
-    "Vue/4. Vue3 Reactivity.md",
     "Typescript.md",
     "기본기/2. Learning New Things.md",
     "기본기/기본기 (Index).md",
