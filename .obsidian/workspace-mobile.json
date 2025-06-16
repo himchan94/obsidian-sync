@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vue/2. Vue doc - basic.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "images/Pasted image 20240922162907.png",
+            "file": "Vue/2. Vue doc - basic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "abb1a61a1a565648",
+  "active": "c89eab9027dd2d87",
   "lastOpenFiles": [
     "3. Vue doc - 컴포넌트 심화.md",
     "Vue/4. Vue3 Reactivity.md",
