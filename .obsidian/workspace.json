@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49793607f09ca308",
+        "id": "da908afd6e1f6675",
         "type": "tabs",
         "children": [
           {
-            "id": "923757c348766c37",
+            "id": "ce609fefc5e2233b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-21 18.07.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-21 18.07.37.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -186,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "923757c348766c37",
+  "active": "ce609fefc5e2233b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-06-21 18.07.37.excalidraw.md",
     "Untitled Diagram 3.svg",
