@@ -8,43 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fc3e064477ee216",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241030233345.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241030233345"
-            }
-          },
-          {
             "id": "6c296018d2d1e085",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250616224923.png"
+                "file": "Design Pattern/0. index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250616224923"
-            }
-          },
-          {
-            "id": "af69649ab9aeef2b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241030233345.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241030233345"
+              "icon": "lucide-file",
+              "title": "0. index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,24 +188,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aae7cdb785296965",
+  "active": "6c296018d2d1e085",
   "lastOpenFiles": [
+    "무제 파일 3.md",
+    "Design Pattern/0. index.md",
+    "Design Pattern",
     "Pasted image 20241226005610.png",
-    "Pasted image 20250616222625.png",
-    "Pasted image 20250616224923.png",
-    "Pasted image 20241030233345.png",
-    "Pasted image 20250616222633.png",
-    "Pasted image 20250616222604.png",
-    "Pasted image 20250604140612.png",
-    "Pasted image 20250601233940.png",
-    "Pasted image 20250119023035.png",
-    "5/ 클래스와 객체2.md",
-    "무제.canvas",
+    "images/Pasted image 20250616224923.png",
+    "images/Pasted image 20250616222633.png",
+    "images/Pasted image 20250616222625.png",
+    "images/Pasted image 20250616222604.png",
+    "images/Pasted image 20250604181459.png",
+    "images/Pasted image 20250604181036.png",
+    "images/Pasted image 20250604141017.png",
+    "images/Pasted image 20250604140612.png",
+    "images/Pasted image 20250604134839.png",
+    "무제 파일 4.md",
     "2025-06-21.md",
+    "무제.canvas",
+    "무제.md",
+    "무제 1.md",
+    "5/ 클래스와 객체2.md",
     "Vue/2. Vue doc - basic.md",
     "Vue/0. index.md",
     "3. Vue doc - 컴포넌트 심화.md",
-    "무제 1.md",
     "Vue/4. Vue3 Reactivity.md",
     "1. 변수와 자료형.md",
     "Vue/1. Vue Intro.md",
@@ -236,10 +219,7 @@
     "기본기/2. Learning New Things.md",
     "기본기/기본기 (Index).md",
     "Excalidraw/Drawing 2025-06-04 18.06.04.excalidraw.md",
-    "Pasted image 20250604181459.png",
     "Excalidraw/Drawing 2025-06-01 22.57.29.excalidraw.md",
-    "Pasted image 20250604181036.png",
-    "무제.md",
     "기본기/linux 명령어.md",
     "기본기/1. linux 명령어.md",
     "Excalidraw/Drawing 2025-05-24 19.59.45.excalidraw.md",
@@ -250,9 +230,7 @@
     "5",
     "EXCUTE CONTEXT.md",
     "JAVA",
-    "무제 파일 4.md",
     "JAVA 오버로딩과 오버라이딩.md",
-    "무제 파일 3.md",
     "Refactor My Life",
     "sqlDB.sql",
     "DB/practice_with_MySQLWorkbench",
@@ -262,7 +240,6 @@
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "fonts/NanumPenScript-Regular.ttf",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "Untitled.canvas",
