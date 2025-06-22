@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/0. 견고한 JS 소프트웨어 만들기.md",
+                "file": "Design Pattern/1. Iterator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 견고한 JS 소프트웨어 만들기"
+              "title": "1. Iterator"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "ce609fefc5e2233b",
   "lastOpenFiles": [
-    "SQL/0.index.md",
     "Testing/0. 견고한 JS 소프트웨어 만들기.md",
+    "SQL/0.index.md",
     "Testing",
     "Design Pattern/1. Iterator.md",
     "SQL",
