@@ -33,8 +33,7 @@
               "title": "Drawing 2025-06-28 19.31.03.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
+                "file": "UML/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing 2025-06-28 19.31.03.excalidraw 의 백링크"
+              "title": "UML 의 백링크"
             }
           },
           {
@@ -201,12 +200,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fd47bc5481271e",
+  "active": "14611662b89a8f30",
   "lastOpenFiles": [
+    "Pasted image 20250628195106.png",
+    "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
     "UML/UML.md",
     "Pasted image 20250628194247.png",
     "Pasted image 20250628194243.png",
-    "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
     "Pasted image 20250628194040.png",
     "Pasted image 20250628193900.png",
     "Pasted image 20250628193850.png",

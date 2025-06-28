@@ -21,3 +21,7 @@
 4. 오퍼레이션 표기법
 가시성 이름(매개변수 목록): 리턴타입
 ![[Pasted image 20250628194247.png]]
+5. 연관(association)
+- 객체 간의 구조적 관계를 표현함
+![[Pasted image 20250628195106.png]]
+역할명: Company 클래스에서 Person 클래스를 봤을 때 employee라는 역할이다.
