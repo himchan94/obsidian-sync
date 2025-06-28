@@ -33,8 +33,7 @@
               "title": "Drawing 2025-06-28 19.31.03.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
+                "file": "UML/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Drawing 2025-06-28 19.31.03.excalidraw 의 백링크"
+              "title": "UML 의 백링크"
             }
           },
           {
@@ -201,11 +200,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fd47bc5481271e",
+  "active": "14611662b89a8f30",
   "lastOpenFiles": [
-    "UML/UML.md",
-    "Pasted image 20250628193557.png",
+    "Pasted image 20250628194247.png",
+    "Pasted image 20250628194243.png",
     "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
+    "UML/UML.md",
+    "Pasted image 20250628194040.png",
+    "Pasted image 20250628193900.png",
+    "Pasted image 20250628193850.png",
+    "Pasted image 20250628193557.png",
     "Design Pattern/1. Iterator.md",
     "UML",
     "Design Pattern/2. Strategy.md",
@@ -225,10 +229,6 @@
     "Untitled Diagram.svg",
     "무제 파일 3.md",
     "Design Pattern",
-    "Pasted image 20241226005610.png",
-    "images/Pasted image 20250616224923.png",
-    "images/Pasted image 20250616222633.png",
-    "images/Pasted image 20250616222625.png",
     "무제 파일 4.md",
     "2025-06-21.md",
     "무제.canvas",

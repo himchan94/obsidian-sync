@@ -13,5 +13,11 @@
 
 ![[Pasted image 20250628193557.png]]
 3. 속성 표기법
+
 가시성 이름: 타입 = 기본값
 가시성: +(public), -(private), #(protected), ~(package)
+
+![[Pasted image 20250628194040.png]]
+4. 오퍼레이션 표기법
+가시성 이름(매개변수 목록): 리턴타입
+![[Pasted image 20250628194247.png]]
