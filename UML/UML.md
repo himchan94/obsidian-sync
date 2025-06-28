@@ -25,3 +25,4 @@
 - 객체 간의 구조적 관계를 표현함
 ![[Pasted image 20250628195106.png]]
 역할명: Company 클래스에서 Person 클래스를 봤을 때 employee라는 역할이다.
+다중성: ERD 그릴 때 1:N 같은 것들
