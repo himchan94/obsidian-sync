@@ -33,7 +33,8 @@
               "title": "Drawing 2025-06-28 19.31.03.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/UML.md",
+                "file": "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "UML 의 백링크"
+              "title": "Drawing 2025-06-28 19.31.03.excalidraw 의 백링크"
             }
           },
           {
@@ -200,12 +201,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14611662b89a8f30",
+  "active": "b1fd47bc5481271e",
   "lastOpenFiles": [
+    "UML/UML.md",
     "Pasted image 20250628194247.png",
     "Pasted image 20250628194243.png",
     "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
-    "UML/UML.md",
     "Pasted image 20250628194040.png",
     "Pasted image 20250628193900.png",
     "Pasted image 20250628193850.png",
@@ -226,7 +227,6 @@
     "Untitled Diagram 2.svg",
     "Excalidraw/Drawing 2025-06-21 18.05.25.excalidraw.md",
     "Untitled Diagram 1.svg",
-    "Untitled Diagram.svg",
     "무제 파일 3.md",
     "Design Pattern",
     "무제 파일 4.md",
