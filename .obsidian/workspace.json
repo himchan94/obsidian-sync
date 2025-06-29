@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/1. Iterator.md",
+                "file": "Design Pattern/3. Template Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Iterator"
+              "title": "3. Template Method"
             }
           },
           {
@@ -201,6 +201,8 @@
   },
   "active": "14611662b89a8f30",
   "lastOpenFiles": [
+    "Design Pattern/1. Iterator.md",
+    "Design Pattern/3. Template Method.md",
     "Design Pattern/2. Strategy.md",
     "UML/UML.md",
     "Pasted image 20250628195106.png",
@@ -211,7 +213,6 @@
     "Pasted image 20250628193900.png",
     "Pasted image 20250628193850.png",
     "Pasted image 20250628193557.png",
-    "Design Pattern/1. Iterator.md",
     "UML",
     "1. 변수와 자료형.md",
     "무제.md",
