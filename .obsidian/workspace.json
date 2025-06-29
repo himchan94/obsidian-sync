@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML/UML.md",
+                "file": "Design Pattern/1. Iterator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML"
+              "title": "1. Iterator"
             }
           },
           {
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -202,9 +201,10 @@
   },
   "active": "14611662b89a8f30",
   "lastOpenFiles": [
+    "Design Pattern/2. Strategy.md",
+    "UML/UML.md",
     "Pasted image 20250628195106.png",
     "Excalidraw/Drawing 2025-06-28 19.31.03.excalidraw.md",
-    "UML/UML.md",
     "Pasted image 20250628194247.png",
     "Pasted image 20250628194243.png",
     "Pasted image 20250628194040.png",
@@ -213,7 +213,6 @@
     "Pasted image 20250628193557.png",
     "Design Pattern/1. Iterator.md",
     "UML",
-    "Design Pattern/2. Strategy.md",
     "1. 변수와 자료형.md",
     "무제.md",
     "Pasted image 20250624023654.png",
@@ -226,7 +225,6 @@
     "Design Pattern/0. index.md",
     "Untitled Diagram 2.svg",
     "Excalidraw/Drawing 2025-06-21 18.05.25.excalidraw.md",
-    "Untitled Diagram 1.svg",
     "무제 파일 3.md",
     "Design Pattern",
     "무제 파일 4.md",
