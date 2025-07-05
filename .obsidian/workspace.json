@@ -11,13 +11,30 @@
             "id": "a0e5ad79155e971a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/4. Adapter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "4. Adapter"
+            }
+          },
+          {
+            "id": "44f47a2cc8a19643",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-05 14.31.19.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0e5ad79155e971a",
+  "active": "44f47a2cc8a19643",
   "lastOpenFiles": [
+    "Design Pattern/4. Adapter.md",
+    "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md",
     "JAVA/0. 목차.md",
     "JAVA/JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
@@ -224,8 +243,6 @@
     "무제.canvas",
     "5/ 클래스와 객체2.md",
     "Vue/2. Vue doc - basic.md",
-    "Vue/0. index.md",
-    "3. Vue doc - 컴포넌트 심화.md",
     "Vue",
     "5",
     "JAVA",
