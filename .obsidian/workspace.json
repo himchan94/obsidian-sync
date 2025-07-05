@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -189,6 +190,7 @@
   },
   "active": "a0e5ad79155e971a",
   "lastOpenFiles": [
+    "Pasted image 20250705144040.png",
     "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md",
     "Design Pattern/4. Adapter.md",
     "JAVA/0. 목차.md",
@@ -229,7 +231,6 @@
     "2025-06-21.md",
     "무제.canvas",
     "5/ 클래스와 객체2.md",
-    "Vue/2. Vue doc - basic.md",
     "Vue",
     "5",
     "JAVA",
