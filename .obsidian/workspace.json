@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "4. Adapter"
             }
-          },
-          {
-            "id": "44f47a2cc8a19643",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-05 14.31.19.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +187,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44f47a2cc8a19643",
+  "active": "a0e5ad79155e971a",
   "lastOpenFiles": [
-    "Design Pattern/4. Adapter.md",
     "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md",
+    "Design Pattern/4. Adapter.md",
     "JAVA/0. 목차.md",
     "JAVA/JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
