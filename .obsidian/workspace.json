@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da908afd6e1f6675",
+        "id": "2662ba84bcf4a2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fd47bc5481271e",
+            "id": "a0e5ad79155e971a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/0. 목차.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. 목차"
+              "title": "새 탭"
             }
           }
         ]
@@ -187,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fd47bc5481271e",
+  "active": "a0e5ad79155e971a",
   "lastOpenFiles": [
-    "JAVA/JAVA 오버로딩과 오버라이딩.md",
     "JAVA/0. 목차.md",
+    "JAVA/JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
     "Impl.md",
     "무제 파일 3.md",
