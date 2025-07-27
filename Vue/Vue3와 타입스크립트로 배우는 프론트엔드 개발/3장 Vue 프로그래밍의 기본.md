@@ -41,3 +41,53 @@ area.value = 300; // 에러 발생
 ```
 
 #### 2. 객체를 한꺼번에 반응형으로 만드는 reactive();
+
+```vue
+
+<template>
+
+<h1>{{ data.radius }}</h1>
+
+<h1>{{ area }}</h1>
+
+</template>
+
+  
+
+<script setup lang="ts">
+
+import { computed, reactive, ref } from 'vue'
+
+  
+
+const data = reactive({
+
+PI: 3.14,
+
+radius: Math.round(Math.random() * 10),
+
+})
+
+  
+
+const area = computed((): number => {
+
+return data.radius * data.radius * data.PI
+
+})
+
+  
+
+setInterval((): void => {
+
+data.radius = Math.round(Math.random() * 10)
+
+}, 1000)
+
+</script>
+
+  
+
+<style scoped></style>
+
+```
