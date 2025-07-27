@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "근차근차 코딩테스트/1. 코딩테스트 접근법.md",
+                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0.index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 코딩테스트 접근법"
+              "title": "0.index"
             }
           }
         ],
@@ -205,6 +205,11 @@
   },
   "active": "489fd95d751b4749",
   "lastOpenFiles": [
+    "Vue/0. index.md",
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0.index.md",
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발",
+    "Vue/2. Vue doc - basic.md",
+    "Vue/4. Vue3 Reactivity.md",
     "근차근차 코딩테스트/1. 코딩테스트 접근법.md",
     "근차근차 코딩테스트/0. 목차.md",
     "Design Pattern/4. Adapter.md",
@@ -241,17 +246,12 @@
     "SQL/0.index.md",
     "Testing",
     "SQL",
-    "Excalidraw/Drawing 2025-06-21 18.07.37.excalidraw.md",
-    "Design Pattern/0. index.md",
-    "Excalidraw/Drawing 2025-06-21 18.05.25.excalidraw.md",
     "Design Pattern",
-    "2025-06-21.md",
     "무제.canvas",
     "Vue",
     "5",
     "JAVA",
     "Refactor My Life",
-    "sqlDB.sql",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
