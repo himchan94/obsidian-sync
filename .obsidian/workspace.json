@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (2).md",
+                "file": "DB/lecture/1. DB 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4장 데이터와 이벤트 디렉티브 - (2)"
+              "title": "1. DB 개요"
             }
           },
           {
@@ -261,8 +261,11 @@
   },
   "active": "eeb2d2fed75ca95c",
   "lastOpenFiles": [
-    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (2).md",
+    "DB/lecture/1. DB 개요.md",
+    "DB/lecture",
+    "무제",
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
     "About Obsidian/Setting.md",
     "About Obsidian/Sync.md",
@@ -295,7 +298,6 @@
     "Untitled Diagram.svg",
     "images/Pasted image 20250624023654.png",
     "images/Pasted image 20250628193557.png",
-    "Design Pattern/3. Template Method.md",
     "images/Pasted image 20250628195106.png",
     "images/Pasted image 20250628194247.png",
     "images/Pasted image 20250628194243.png",
@@ -306,8 +308,6 @@
     "무제.canvas",
     "Vue",
     "5",
-    "JAVA",
-    "Refactor My Life",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
