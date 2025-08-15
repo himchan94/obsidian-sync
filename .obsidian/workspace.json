@@ -83,12 +83,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/9장 자식 컴포넌트 활용.md",
+                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9장 자식 컴포넌트 활용"
+              "title": "0. 목차"
+            }
+          },
+          {
+            "id": "27098b46bab81e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 목차"
+            }
+          },
+          {
+            "id": "372247395ae2ff8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/8장 컴포넌트 간 연계.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8장 컴포넌트 간 연계"
             }
           },
           {
@@ -106,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -274,8 +302,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e36ecb010544803",
+  "active": "372247395ae2ff8a",
   "lastOpenFiles": [
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/8장 컴포넌트 간 연계.md",
     "2025-08-15.md",
     "Excalidraw/Drawing 2025-08-15 16.20.08.excalidraw.md",
     "DB/lecture/1. DB 개요.md",
@@ -283,11 +313,9 @@
     "DB/lecture",
     "무제",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
-    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
     "About Obsidian/Setting.md",
     "About Obsidian/Sync.md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/3장 Vue 프로그래밍의 기본.md",
-    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/9장 자식 컴포넌트 활용.md",
     "Vue/0. index.md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발",
     "Vue/2. Vue doc - basic.md",
