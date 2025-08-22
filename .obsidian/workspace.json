@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "8장 컴포넌트 간 연계"
             }
+          },
+          {
+            "id": "c8b93c428c148b6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-git:Open Git source control": false,
@@ -189,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "372247395ae2ff8a",
+  "active": "c8b93c428c148b6e",
   "lastOpenFiles": [
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/8장 컴포넌트 간 연계.md",
