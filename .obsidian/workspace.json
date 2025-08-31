@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2662ba84bcf4a2f1",
+        "id": "782d61f06b1a896a",
         "type": "tabs",
         "children": [
           {
-            "id": "372247395ae2ff8a",
+            "id": "067fd24126995a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/8장 컴포넌트 간 연계.md",
+                "file": "system-design/2. System Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8장 컴포넌트 간 연계"
+              "title": "2. System Programming"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e81e66da55c7a748",
@@ -190,10 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "372247395ae2ff8a",
+  "active": "067fd24126995a1b",
   "lastOpenFiles": [
-    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
+    "무제 2.base",
+    "system-design/2. System Programming.md",
+    "system-design",
+    "무제 3.base",
+    "무제 파일.md",
+    "무제 파일 3.md",
+    "Impl.md",
+    "Pasted image 20250705144040.png",
+    "무제.base",
+    "무제 1.base",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/8장 컴포넌트 간 연계.md",
+    "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/4장 데이터와 이벤트 디렉티브 - (1).md",
     "Vue/Vue3와 타입스크립트로 배우는 프론트엔드 개발/0. 목차.md",
     "DB/lecture/1. DB 개요.md",
     "근차근차 코딩테스트/0. 목차.md",
@@ -212,17 +221,11 @@
     "근차근차 코딩테스트/1. 코딩테스트 접근법.md",
     "Design Pattern/4. Adapter.md",
     "근차근차 코딩테스트",
-    "Pasted image 20250705144040.png",
     "Excalidraw/Drawing 2025-07-05 14.31.19.excalidraw.md",
     "JAVA/0. 목차.md",
     "JAVA/JAVA 오버로딩과 오버라이딩.md",
     "SCOPE.md",
-    "Impl.md",
-    "무제 파일 3.md",
     "무제 파일 4.md",
-    "무제 파일.md",
-    "무제 1.md",
-    "무제.md",
     "Untitled Diagram 3.svg",
     "Untitled Diagram 2.svg",
     "Untitled Diagram 1.svg",
@@ -233,12 +236,7 @@
     "images/Pasted image 20250628194247.png",
     "images/Pasted image 20250628194243.png",
     "UML",
-    "Testing",
-    "SQL",
-    "Design Pattern",
     "무제.canvas",
-    "Vue",
-    "5",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
